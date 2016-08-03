@@ -1,0 +1,146 @@
+R,Range,Reset
+R&D,Research and Development
+R&M,Repair and Maintenance
+R&R,Repeatability and reproducibility
+RAB,Record Access Block,ANSI Registration Accreditation Board
+RAC,Radiometric Area Correlation,Regional Automation Center
+RAD,Radiation Absorbed Dose
+RAID,Redundant Array of Inexpensive Disks,Routine to Aid Interactive Debugging
+RALU,Register And Arithmetic Logic Unit
+RAM,Random Access Memory,Register Access Module
+RAMAC,Random Access Storage
+RAPLOC,Rapid Location
+RAR,Rapid Address Recording
+RAS,Random Access Storage,Reliability Availability and Serviceability,Row Address Select,Row Address Strobe,Remote Access Server
+RASSP,Rapid Prototyping for Applications Specific Signal Processing
+RATS,Ram Tester and Sequencer
+RBS,Rutherford Backscattering Spectroscopy
+RBSOA,Reverse-Bias Safe Operating Area
+RC,Remote Control,Research Center,Resistor-Capacitor Circuit
+RCCB,Remote Control Circuit Breaker
+RCF,Recovery Control Facility
+RCM,Reliability Centered Maintenance
+RCOS,Report Chargeout System
+RCP,Resource Capacity Planning
+RCTL,Resistor-Capacitor-Transistor Logic
+RCU,Recording Control Unit
+RCVR,Receiver
+RD,Received Data,Reference Design
+RDB,Relational Database,Request Definition Block
+RDC,Remote Diagnostics Center
+RDE,Received Data Enable,Research Development and Engineering
+RDL,Re-Distribution Layer
+RDOS,Real-time Disc Operating System
+RDS,Revenue Distributing System
+RDSW,Remote DXS Switch
+RDT,Report Distribution and Tracking
+RDT&E,Research Development Test and Evaluation
+RDTC,Remote Data Terminal Concentrator
+RE,Rate Effect
+READ,Real-time Electronic Access and Display,Remote Electronic Alphanumeric Display
+RECFM,Record Format
+RELCTL,Release Control
+RELREC,Relative Record
+REN,Remote Enable
+REQSPEC,Requirements Specification
+RES,Research Existing Software
+RESC,Resources System
+RESP,Responsibility
+REST,Range Endurance Speed and Time
+RET,Resolution Enhancement Technology
+RETPD,Retention Period
+RF,Radio Frequency
+RFC,Request for Concept
+RFAB,Richardson Fab
+RFD,Ready For Data
+RFE,Request For Enhancement
+RFI,Request for Information
+RFIC,Radio Frequency Integrated Circuit
+RFID,Radio Frequency Identification
+RFP,Request For Proposal
+RFQ,Request For Quotation
+RFT,Remote File Transfer
+RGB,Red Green Blue
+RGES,Residential Gateway and Embedded Systems
+RHEED,Reflection High Energy Diffraction
+RHET,Resonance Hot Electron Transistor
+RI,Right In to Shifter
+RIB,Return Information Block
+RIC,Restructurable Integrated Circuit
+RID,Risk impact decision
+RIE,Reactive Ion Etching
+RIF,Reduction In Force
+RIM,Read-In Mode
+RIPP,Recycle Internal Paper Program
+RISC,Reduced Instruction Set Computing,Reduced Instruction Set Computer
+RIX,Regional Information Exchange
+RJ,Right Justified
+RJE,Remote Job Entry
+RJP,Remote Job Processor
+RKE,Remote Keyless Entry
+RLC,Rapid Learning Cycle
+RLL,Relay Ladder Logic
+RLT,Record Lock Table
+RM,Reference Methodology
+RMA,Return Material Authorization
+RMM,Read-Mostly Mode
+RMR,Return Material Request,Returned Material Receipt
+RMS,Record Management System,Root Mean Square
+RMW,Right Modify Write
+RNS,Received-Not-Stocked
+RO,Readout Receive Only,Reverse Osmosis
+ROA,Return On Assets
+ROB,Resource Ownership Block,Rest of the Board
+ROC,Required Operational Capability
+ROE,Rate of Exchange
+ROI,Region of Interest
+ROM,Read-Only Memory,Rough-Order-of-Magnitude
+ROP,Reorder Point
+ROW,Rest Of World
+RP,Request For Purchase,Rolling Plan
+RPB,Resource Privilege Block
+RPE,Registered Professional Engineer
+RPG,Report Program Generator
+RPI,Rolling Plan Indices
+RPM,Revolutions Per Minute
+RPN,Reverse Polish Notation
+RPQ,Request For Price Quotation
+RPROM,Reprogrammable Read Only Memory
+RPTS,Royalty Payment Tracking System
+RRA,Robust Risk Assessment
+RRC,Record Retention Center
+RRF,Rapid Reaction Facility
+RS,Register Select
+RS232,Digital Communications Standard
+RSD,Reschedule Date
+RSDC,Remote System Diagnostic Center
+RSI,Rationalization Standardization and Interoperability
+RSM,Regional Sales Manager
+RSMAP,Realtime Executive with Memory Mapping
+RSMB,Remote Scheduler Message Block
+RSR,Red Stock Requisition
+RSS,Root Sum Square
+RSSI,Received Signal Strength Indicator
+RST,Reserve Segment Table
+RTAB,Removable Tape Automated Bonding
+RTC,Real-Time Clock,Regional Technology Center,Remote Tracking Controller
+RTCM,Resale Tracking and Claims Management
+RTD,Resistance-Temperature Detectors
+RTICR,Real Time Interrupt Control Register
+RTL,Resistor-Transistor Logic
+RTM,Release to Market,Round Trip Mileage
+RTMA,Radio and Television Manufacturers Association
+RTOS,Real-Time Operating System
+RTP,Release To Production
+RTPC,Real-Time Process Control
+RTPD,Real-Time Particle Detection
+RTS,Ready To Send,Release Tracking System,Remote Terminal Subsystem,Return To Stock
+RTV,Return To Vendor
+RTV,Ramp to Volume
+RUSH,Revision Updated Schedule Handler
+RUST,Reduced Usage and Storage of Tapes
+RVC,Recovery Validation Control
+RVP,Regional Vice President
+RW,Read Write
+RWP,Read Write Programmer
+RX,Receiver

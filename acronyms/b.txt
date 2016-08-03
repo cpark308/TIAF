@@ -1,0 +1,117 @@
+BL,Backlog
+B2B,Business to Business
+BAII,Business Analyst Calculator
+BAA,Business Area Analysis
+BAG,Broadband Access Group which is the TI group responsible for broadband
+BARPII,Bar Profit In Inventory
+BARC,Bottom Anti Reflective Coating
+BAS,Building Automation System
+BASIC,Beginners All purpose Symbolic Instruction Code
+BB,Beginning Balance,Blue Book
+BBF,Balance Brought Forward
+BBRT,Broadband Remote Terminal
+BBS,Bought In Bulk Stock
+BC,Bar Code,Basic Control,Bus Controller
+BCAIM,Bit Character Asynchronous Interface Module
+BCAST,Bar Code Allophone Speech Technology
+BCD,Binary Coded Decimal
+BCG,Broadband Communications Group
+BCH,Bose Chaudhuri Hocquenghem Cyclic Redundancy Error Detection Code
+BCL,Batch Process Control Language
+BCM,Bar code Menu,Basic Control Mode
+BCMD,Bulk Charge Modulated Device
+BCO,Binary Coded Octal
+BCP,Best Commercial Practices,Byte Control Protocol
+BCT,BICMOS Technology,Bipolar CMOS Technologies
+BCWP,Budgeted Cost of Work Performed
+BCWS,Budgeted Cost of Work Scheduled
+BD,Business Development
+BDAM,Basic Direct Access Method
+BDF,Business Design Facility,Business Demand Forecast
+BDMP,Biomedical Data Processing
+BDS,Bay distributed stocker
+BDT,Bulk Data Transfer
+BDW,Business Data Warehouse
+BECS,Bid Estimate Comparison System
+BEOL,Back End of line
+BER,Bid Estimate Request,Bit Error Rate
+BF,Business Functions
+BFO,Beat Frequency Oscillator
+BFOQ,Bonafide Occupational Qualification
+BGA,Ball Grid Array,Business Graphics Arrays
+BI,Burn In
+BIB,Burn In Board
+BIC,Best In Class
+BICMOS,Bipolar CMOS
+BIDFET,Bipolar Double Diffused FET
+BIDMOS,Bipolar Double Diffused MOS
+BIFET,Bipolar Double Diffused FET
+BIP,Business Information Portal
+BIS,Business Information System,Ball Inspection System
+BISAM,Basic Index Sequential Access Method,Bit Index Sequential Access Method
+BISS,Base Installation Security System
+BIST,Built In Self Test
+BISYNC,Binary Synchronous
+BIT,Binary Digit,Built In Test
+BITE,Built In Test Equipment
+BIU,Bus Interface Unit
+BKM,Best Known Methods
+BL2,Buried Load Logic
+BLADE,Behavioral Level ASIC Design Environment
+BLD,Beam Lead Device
+BLR,Board level reliability
+BLT,Buried Load Transistor,Bond Line Thickness
+BLU,Basic Logic Unit
+BM,Basic Model,Branch Manager
+BMAIL,Beyond Mail
+BML,Bill of Material Listing
+BMP,Batch Message Processing,Best Manufacturing Practices,Bill of Materials Processor
+BMS,Building Management System,Battery Management Solutions
+BMT,Bubble Memory Terminal
+BMW,Bayerische Motoren Werke
+BMX,Buffered Memory Crossbar
+BNC,Bayonet Neill Concelman which is a type of a connector
+BO,Back Order
+BOAC,Bond Over Active Copper
+BOD,Biochemical Oxygen Demand,Board Of Directors
+BOE,BARC Over Etch,Buffered Oxide Etch
+BOM,Bill Of Materials
+BOP,Bump on Pad
+BoPO,Bond on Protective Overcoat
+BOPS,Billions of Operations Per Second
+BOPTR,Bit Oriented Protocol Transmit Receiver
+BORAM,Block Oriented Random Access Memory
+BOT,Beginning Of Tape Mark
+BPAM,Basic Partitioned Access Method
+BPE,Business Process Engineering
+BPF,Bullet Proof Form
+BPI,Bits Per Inch,Business Process Improvement
+BPR,Business Process Re engineering
+BPS,Best Practice Sharing,Bits Per Second
+BPSG,Borophosphosilicate Glass
+BQA,British Quality Award
+BR,Bid Estimate Request
+BRB,Buffered Request Block,Be Right Back
+BRO,Buffered Request Overhead
+BS,Business Segments
+BSA,Business System Access
+BSAM,Basic Sequential Access Method
+BSC,Binary Synchronous Communication
+BSCAPTM,Binary Synchronous Communication and Adapter Programmable Terminal Multiplexer
+BSD,Business System Design
+BSDL,Boundary Scan Description Language
+BSE,Business Support Entity
+BSI,British Standards Institute
+BSP,Business Systems Planning
+BSR,Back ordered Stock Requisition
+BST,British Summer Time
+BSTC,Broadband Silicon Technology Center
+BTA,Bus Termination Array
+BT,Bismaleimide Triazine
+BTAM,Basic Telecommunications Access Method
+BTB,B. Tree Block
+BTL,Backplane Transistor Logic
+BTS,Batch Terminal Simulator
+BU,Business Unit
+BWO,Backward Wave Oscillator
+BWS,Buyer Work Station

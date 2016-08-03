@@ -1,0 +1,291 @@
+P,Parity
+P&AE,People and Asset Effectiveness
+P&B,Payroll and Benefits
+P&L,Profit and Loss
+P&M,Production and Maintenance
+P&MM,Purchasing and Materials Management
+P&MQ,Parts and Materials Quality
+P&R,Place and Route
+PA,Performance Audio,Precision Analog
+PAB,Power Analysis Board
+PABX,Private Automatic Branch Exchange
+PACIFIC,Peripheral Audio Chip for Improved Features in Cellular Phones
+PACT,Programmable Acquisition and Control Timer Module
+PAD,Position Arm Disk,Procedure Action Diagram,Process Action Diagram,Programmable Address Decoder
+PADATDIR,Port A Data and Direction Control Register
+PAL,Platform Adaptation Layer
+PALR,Programmable Array Logic
+PAM,Potential Available Market,Process Automation Monitor,Pulse Amplitude Modulation
+PAMD,Process Automation Monitor or Disk
+PAN,Polyacrylonitrile
+PARC,Pending Acceptance or Response from Customer
+PAR,Peak to Average Ratios,Performance Analysis and Review,Program-Aid Routine,Program Appraisal and Review
+PARM,Parameter
+PAS,Process Automation Systems,Program Address Storage
+PASC,Pacific Area Standards Congress
+PASCAL,Phillips Automatic Sequence Calculator
+PASS,Portable Analysis and Synthesis System,Production Automated Scheduling System,Program Access Support System
+PAT,Process Action Team,Profit After Tax
+PATE,Programmed Automatic Test Equipment
+PATS,Product Acceptance Test Specification
+PAUT,Profit After Ultimate Tax
+PAX,Private Automatic Exchange
+PB,Pending Bid,Power Brakes,Pre-Briefed,Proportional Band of PID Equation,Push Button
+PBCC,Packet Binary Convolutional Coding
+PBGC,Pension Benefit Guaranty Corporation
+PBM,Partial Bit Map
+PBO,Priority Back Order,polybenzoxazole
+PBT,Profit Before Tax
+PBX,Private Branch Exchange
+PC,Personal Computer,Printed Circuit,Professional Computer,Program Counter,Programmable Controller,Park Central,Probe Card
+PCAP,Process Characterization Analysis Package
+PCB,Page Control Block,Printed Circuit Board,Process Control Block,Program Communication Block
+PCBDFA,Printed Circuit Board Design For Assembly
+PCC,Product-Customer Center,Production Change Control
+PCCS,Production Change Control System
+PCD,Proximity Coupling Device,Process Control Document
+PCDB,Product Cost Data Base
+PCDI,Printed Circuit Design Interface
+PCF,Parts Conditioning Facility
+PCI,Peripheral Component Interconnect
+PCIF,Personal Computing Internal Fanout
+PCIV,Product Cost Inventory Valuation
+PCIS,Process Control Information System
+PCL,Personal Computing Laboratory,Printer Command Language,Programmable Components Laboratory
+PCM,Plug-Compatible Mainframe,Plug-Compatible Manufacturer,Proposal Cost Model,Process Control Monitor,Pulse-Code-Modulation
+PCMCIA,Personal Computer Memory Card International Association
+PCMS,Process Control Management System,Program Cost Management Services,Project Cost Management Services
+PCN,Personnel Change Notice,Procedure Change Notice,Production Change Notice
+PCR,Print Contrast Ratio,Printed Circuit Resources,Punched Card Reader,Product Change Request
+PCS,Personal Communication System,Production Control Shuttle
+PCSL,PC Systems Logic
+PCSR,Program Cost and Schedule Report
+PCT,Photon-Coupled Transistor
+PCU,Power Conversion Unit
+PD,Personnel Department which is now HR Department,Policy Deployment,Process Deviation
+PDA,Personal Digital Assistant,Percent Defective Allowable
+PDB,Production Data Base,Product Data Base
+PDC,Process Data Collector,Product Distribution Center
+PDCA,Plan Do Check Act Cycle
+PDCS,Product Data Control System
+PDD,Process Dependency Diagram
+PDDR,Periscope Detection and Descrimination Radar
+PDE,Product Development Engineer
+PDES,Product Data Exchange Specification
+PDF,Postscript Data File
+PDI,Power Data Interface
+PDIP,Plastic Dual-In-Line Package
+PDK,Process Delivery Kit,Platform Software Development Kit, a term used across multiple business units
+PDL,Program Design Language
+PDM,Product Data Management,Pulse Duration Modulation
+PDN,Public Data Network
+PDO,Policy Deployment Objectives
+PDP,Product Development Process
+PDPINT,Power Drive Protection Input
+PDQ,Priority Demand Queue
+PDR,Preliminary Design Review
+PDS,Partitioned Data Set,Push Down Stack
+PDSP,Parallel Digital Signal Processor
+PDT,Physical Device Table,Program Data Terminal
+PDU,Protocol Data Unit
+PDWS,PLAP Document Writing System
+PE,Process Engineer
+PEAC,Product Engineering Acceleration Curriculum
+PEAF,Print Evaluation and Acceptance Form
+PEB,Peripheral Expansion Board
+PEC,Peripheral Expansion Chassis
+PEDP,Performance Evaluation and Development Plan
+PEI,People Effectiveness Index
+PEM,Production Engineering Measures,Production Equipment Maintenance
+PEP,Partitioned Emulation Program,Precision Engineered Parts,Product Enhancement Program
+PERT,Program Evaluation and Review Technique
+PES,People Effectiveness Survey,Piloting Expert System,Private Earth Station
+PESP,PWB Expert System for Producibility
+PEWS,Professional Engineering Workstation
+PF,Pico Farad,Power Factor,Power Flow Flag
+PFCS,Process Floor Control System
+PFI,Program File Index
+PFK,Pay For Knowledge,Program Function Key
+PFM,Personnel File Management System,Pulse Frequency Modulation,Plastic Flange Mount
+PFN,Page Frame Number
+PFO,Profit From Operation
+PFP,Pattern Factoring Program
+PFR,Permanent Fix Request,Power Fail Restart
+PFS,Pictures From Singapore
+PFT,Planning Factors Tool
+PFW,Privileged FirmWare
+PFZ,Program File Zero
+PG,Pattern Generator,Pressure Gage,Power Good
+PGA,Pin-Grid Array,Programmable Gain Amplifiers
+PGD,Predictive Gate Drive
+PGI Date,Post Goods Issue Date
+PGMLIB,Program Libraries
+PHD,Process Hierarchy Diagram
+PHROM,Phrase Read Only Memory
+PHY,Physical Interface Device
+PI,Process Integration
+PIA,Peripheral Interface Adapter,Profit-In-Assets,Patent Incentive Award
+PIB,Probe Interface Board
+PIC,Platform Independent Charge
+PICC,Processor Interface Controller and Communications,Proximity Integrated Circuit Card
+PID,Planned Individual Development,Printer ID,Proportional-Integral-Derivative,Particle Interface Device,Parameter ID
+PIH,Pin In Hole
+PII,Profit In Inventory
+PIM,Personal Information Management,Pulse Interval Modulation,Proactive Inventory Management
+PIN,Personnel Identification Number
+PIND,Particle Impact Noise Detection
+PIO,Programmable Input-Output Chip
+PIP,Plug-In Power
+PIPE,Programmable Image Processing Element
+PIT,Professionals in Technology,Programmable Interval Timer
+PIV,Peak Inverse Voltage,Post Indicator Valve
+PIXBLTS,Pixel-Block Transfers
+PIXEL,Picture Element
+PJO,Project Order
+PKF,Process Knowledge Form
+PKTSW,Packet Switching
+PL,Project Leeder
+PLA,Programmable Logic Array
+PLAP,Page Layout And Pagination
+PLC,Process Limit Count,Product Life Cycle,Programmable Logic Controller,Power Line Communication
+PLCC,Plastic Leaded Chip-Carriers
+PLD,Programmable Logic Devices
+PLICE,Programmable Low Impedance Circuit Element
+PLL,Phased-Locked Loop
+PLLST,Poll Status
+PLM,Program Library Management,Program Logic Manual,Product Line Manager
+PLO,Phase-Locked Oscillator
+PLS,Planned Shipment,Program Logic Specification
+PLU,Primary Logical Unit
+PLZ,Punch Leading Zeros
+PM,Preventive Maintenance,Phase Modulation,Product Manager,Performance Media,Performance Manager or Project Manager
+PMA,Precious Metal Adder,Product Marketing Assistant
+PMC,Program Manipulation Check
+PMD,Poly-Metal Dielectric,Program Management Directive
+PMDC,Polarization Mode Compensation Module
+PME,Product Marketing Engineer
+PMG,Permanent-Magnet Generator
+PMI,Project Management Institute
+PMM,Procurement Material Management,Project Management Methodology,Pulse Memory Method
+PMOS,P-channel MOS
+PMP,Power Management Products,Project Management Professional
+PMPIT,Program Management Process Improvement Team
+PMQ,Post Maintenance Quality
+PMR,Purchased Material Return
+PMS,Program Management System,Public Message Service
+PMS&S,Program Management Systems and Services
+PMWS,Program Management Work Station
+PN,Part Number
+PNA,Peripheral Node Adapter
+PNTR,Permanent Normal Trade Relations
+PO,Purchase Order,Protective Overcoat
+POA,Purchase Option Agreement
+POC,Production Operations Control
+POCN,Purchase Order Change Notice
+POCR,Purchase Order Change Request
+POD,Proof Of Delivery
+PoE,Power over Ethernet
+POET,Package of Engineering Tools
+POM,Program Objective Memorandum
+PON,Passive Optical Networks
+PONC,Price Of Nonconformance
+POP,Package on Package
+POP3,Post Office Protocol version 3
+POR,Plan of Record
+POS,Point Of Sale
+PP,Patch Pot,Peak to Peak,Preprocessor,Preproduction
+PPC,Planned Production Change
+PP&C,Production Planning and Control
+PPAP,Production Part Approval Process
+PPD,Planned Pull Date,Power Products Division
+PPE,Personal Protective Equipment,Problem Program Evaluator
+PPFS,Purchased Parts Forecasting System
+PPH,Parts Per Hour
+PPI,Plan-Position Indicator,Programmable Peripheral Interface
+PPM,Portable Power Management
+PPP,Piece Parts Planning
+PPPA,Performance Power Power Area
+PPQC,Piece Part Quality Control
+PPR,Product Planning Review
+PPS,Parallel Processing System,Production Planning System
+PPV,Pay Per View,Purchase Price Variance
+PPX,Professional Program Exchange
+PQFP,Plastic Quad Flat Package
+PQP,Precision Quartz Products
+PQRN,Project Quality Requirements Notice
+PQS,Product Quality System
+PQSI,Product Quality System for Inspection
+PQST,Product Quality System for Test
+PR,Personnel Request,Product Rationalization,Public Relations,Purchase Request
+PRA,Position Resolution Alarm
+PRACL,Page-Replacement Algorithm and Control Logic
+PRAM,Productivity Reliability Availability and Maintainability
+PRB,Physical Record Block
+PRC,People's Republic of China
+PRESP,Planner responsibility
+PRF,Pulse Repetition Frequency
+PRI,Potentially Replaceable Inventory
+PRINTS,Production Reports Internal Tracking System
+PROCON,Property Control System
+PROCOPS,Proposal Costing and Pricing System
+PROM,Programmable Read Only Memory
+PROMIS,Production Management Information System
+PROMPT,Project Milestones Planning and Tracking
+PROSOS,Project Sales Order System
+PRR,Pulse Repetition Rate
+PRTR,Printer
+PS,Power Steering,Pressure Switch,Product Specialist
+PSA,Parallel Signature Analyzer,Problem Statement Analyzer,Production Stop Analyst,Process Sensitivity Analysis
+PSAR,Programmable Synchronous or Asynchronous Receiver
+PSAT,Programmable Synchronous or Asynchronous Transmitter
+PSB,Procedure Status Block,Program Specification Block
+PSBP,PSB Pool
+PSC,Programmable System Component
+PSCMS,Project Software Configuration Management System
+PSD,Production Service Division
+PSE,Peculiar Support Equipment
+PSEL,Part Select
+PSI,Peripheral Systems Interface,Pounds per Square Inch,Programmable Systems Interface,Proposal Standards Interface
+PSK,Phase Shift Keying
+PSL,Problem Statement Language,Processor Status Longword
+PSLT,Procurement Strategic Leadership Team
+PSM,Please See Me,Power Supply Module,Pre-Select Mixer,Pressure Switch Manifold
+PSOJ,Plastic Small Outline J lead
+PSP,Platform Support Package,Precision Signal Path
+PSQ,Personal Security Questionnaire
+PSR,Purchase Order Status Report
+PSRL,Physical Science Research Laboratory
+PSS,Power Supply Solutions
+PSTN,Public Switched Telephone Network
+PSW,Password,Processor Status Word,Program Status Word,Parts Submission Warrant
+PT,Payroll Transfer
+PTAP,Proposal Tracking And Processing System
+PTBF,Period Time Between Failure
+PTC,Parametric Technology Corporation,Positive Temperature Coefficient
+PTCR,Positive Temperature Coefficient of Resistance
+PTCRBPCS,Type Certification Review Board
+PTE,Page Table Entry
+PTERM,Physical Terminal
+PTF,Program Technical Fix,Programmer Temporary Fix
+PTFE,Polytetrafluorethylene
+PTH,Pin Through Hole,Plated-Through Holes
+PTM,Programmable Terminal Multiplexer
+PTO,Paid Time Off
+PTP,Paper Tape Punch
+PTR,Paper Tape Reader
+PTS,Parts Tracking System,PRONET Tracking System
+PTSS,Product and Test Specification System
+PTT,Postal Telephone and Telegraph Administration,Postes Telegraphes et Telephones
+PU,Physical Unit
+PUT,Pick Up Tip,Programmable Unijunction Transistor
+PV,Profit Variance,Production Variance,Performance Variance,Process Variable in PID Equation
+PVC,Polyvinyl Chloride
+PVT,Process, Voltage, Temperature
+PWA,Printed Wiring Assembly
+PWB,Printed Wiring Board
+PWM,Pulse Width Modulation
+PWR,Power Management SBE
+PWS,Programmable Work Station
+PWZ,Precede With Zeros
+PY,Process Yield
+POPO,Probe on Protective Overcoat

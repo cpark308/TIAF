@@ -1,0 +1,147 @@
+F,Fixed
+FPROM,Field Programmable Read Only Memory
+FA,Failure Analysis
+FAA,Federal Aviation Administration
+FAB,Semiconductor fabrication plant,File Access Block
+FABD,Fab Delta
+FAC,Facilities
+FACT,Federation of Automated Coding Technologies,Frame Assembly and Computer Test
+FADEC,Full Authority Digital Electronic Control
+FAE,Field Applications Engineer
+FAI,First Article Inspection
+FAMOS,Floating Gate Avalanche Injection MOS
+FAR,Federal Acquisition Regulation,Field Account Representative,Focused ADA Research
+FASB,Financial Accounting Standards Board
+FASE,Foundation for Advancements in Science and Education
+FAST,Factory Automated Scheduling and Tracking,Function Activity Service Task
+FAX,Facsimile Transmission
+FB,Fixed or Blocked
+FCB,File Control Block
+FCC,Federal Communications Commission
+FCCC,Four Channel Communications Controller
+FCI,Flux Changes per Inch
+FCO,Field Change Order
+FCPA,Foreign Corrupt Practices Act of 1977
+FCRR,File Compare Relative Record
+FCS,Facilities Charge out System,Frame Check Sequence
+FCSO,Full Capability Sales Office
+FCT,type of traditional logic
+FD,Feasibility Demonstration,Floppy Disk
+FDA,Fully Differential Amplifier
+FDB,File Directory Block
+FDC,Fault Detection and Classification,Floppy Disk Controller,Forms Description Compiler
+FDDI,Fiber Distributed Data Interface
+FDL,File Definition Language,Forms Description Language
+FDM,Frequency Division Multiplex
+FDP,Field Developed Program
+FDR,File Descriptor Record
+FDU,Factory Data Utility
+FDW,Financial Data Warehouse
+FDX,Full Duplex
+FE,First Encounter
+FEC,Forward Error Correction
+FEDSIM,Federal Computer Performance Evaluation and Simulation Center
+FEE,Focused End Equipments
+FEMAC,Flexible Electronic Manufacturing Assembly Cell
+FEOL,Front End Of Line
+FEP,Fair Employment Practices,Front End Processor
+FEPB,Federal Express Parts Bank
+FERAM,Ferro Electric Random Access Memory
+FET,Field Effect Transistor
+FETS,Facilities Event Tracking System,The Facilities Event Tracking system
+FF,Flip Flop Circuit
+FF,Flip Flop
+FFA,Field Failure Analysis,Force Field Analysis
+FFAB,Freising Wafer Fab
+FFD,Flagged For Deletion
+FFF,Form Fit Function
+F3,Form Fit Function
+FFH,Fast Frequency Hop
+FFT,Fast Fourier Transform
+FG,Finished Goods,Function Generator
+FGIP,Finished Goods In Process
+FGMT,Functional Group Management Team
+FIB,Focused Ion Beam
+FIC,Federal Information Centers,Field Information Center
+FICA,Federal Insurance Contributions Act
+FID,File Identification
+FIFO,First In First Out
+FILS,Federal Information Locator System
+FIP,Federal Information Processing Standards
+FIQ,Fast interrupt request
+FIR,File Information Record,Finite Impulse Response
+FIS,Factory Information Systems,Field Information System
+FISC,Foreign International Sales Corporation
+FIT,Functional Integrity Testing,Factory Integration Team Failures in Time,Frame Interline Transfer
+FLS,Freight Logistics System
+FLSA,Fair Labor Standards Act
+FLT,Finance Leadership Team
+FLX,Fiber Loop Access
+FM,Frequency Modulation,Factory Mutual research
+FMEA,Failure Mode Effect Analysis,Fault management engineering analysis
+FMP,Function Management Protocol
+FMS,Field Marketing Specialist,File Management System,Flexible Manufacturing System,Forms Management Services
+FMT,File Management Task
+FMU,Fab Mass Update
+FMV,Fair Market Value
+FNE,Forecast Netting and Expiration
+FO,Fiber Optics,Finger Optics,Fan Out
+F&O,Finance and Operations
+FOCS,Factory Operation Control System
+FOSB,Front Opening Storage Box
+FORTRAN,Formula Translating System
+FOT&E,Final Operations Test and Evaluation
+FOTS,Fiber Optic Transmission Systems
+FOUP,Front Opening Unified Pod
+FP,Fixed Price,Function Point,Factory Planner,Front Projection
+FPA,Floating Point Accelerator,Focal Plane Array
+FPGA,Field Programmable Gate Array
+FPI,Fixed Price Incentive
+FPLA,Field Programmable Logic Array
+FPO,Fabricated Parts Order
+FPP,Floating Point Package
+FPR,Floating Point Package
+FPS,Feet Per Second,Field Processing System
+FPU,Floating Point Unit
+FR,me Repeated
+FRESH,Force Requirements Expert System
+FRG,Federal Republic of Germany
+FRT,Freight
+FS,Field Services,File Separator,Floppy System,Flow Solder
+FSA,Field Sales Assistant,Field Sales Automation
+FSB,Field Service Bulletin
+FSC,File Structure Common
+FSCC,Field Service Communications Center
+FSCM,Federal Supply Code for Manufacturers
+FSD,Financial Systems Development
+FSE,Field Sales Engineer,Field Service Engineer
+FSG,Fluorinated silicate glass
+FSK,Frequency Shift Keying
+FSM,Finite State Machine
+FSO,Field Sales Office,Field Sales Organization
+FSR,Field Sales Representative,Field Sales Request,Field Service Report,Financial Statement Review
+FSRS,Forms Supplies Request System
+FSS,Full Screen Support
+FSU,Fast Scan Utility
+FT,Field TI map,Final Test,Field Test
+FTA,Fault Tree Analysis
+FTAM,File Transfer And Management
+FTE,Foundry Technology Engineering
+FTI,Finished Terminal Inventory
+FTM,File Transfer Manager
+FTO,Fixed Tuned Oscillator
+FTP,FCC Transfer Price
+FTS,Federal Telecommunications System,Financial Transaction System
+FTTB,Fiber to the building
+FTV,Functional Technology Validation
+FTY,Final Test Yield
+FUSIM,Functional Simulator
+FUTIL,File Utility
+FWCC,Full Word Channel Control
+FWD,Front Wheel Drive
+FX,Foreign Exchange
+FX,Fiscal Year
+FYA,For Your Action,For Your Approval
+FYF,For Your Files
+FYI,For Your Information
+FYS,For Your Signature

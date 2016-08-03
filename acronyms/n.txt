@@ -1,0 +1,130 @@
+NA,Not Applicable,North America
+NAA,National Association Of Accountants
+NAD,Network Address Devices
+NAE,National Academy Of Engineering
+NAFTA,North America Free Trade Association
+NAK,Negative Acknowledge
+NAM,National Association Of Manufacturers
+NAMPS,Narrowband AMPS
+NAND,Inverted and Gate,Nanolithography And Design
+NAPM,National Association of Purchasing Management
+NARE,North American Real Estate
+NAS,National Academy Of Sciences,Networked attached storage
+NASA,National Aeronautics and Space Administration
+NAU,Network Addressable Unit
+NB,North Building,Notebook,Net Backup
+NBO,New Business Opportunity
+NBTI,Negative Bias Threshold Inversion
+NBTI,Negative Bias Temperature Instability
+NBU,Net Built Units Networking Business Units
+NC,Network Control,No Connection,Normally Closed,Numerical Control
+NCA,National Command Authority,National Convergence Alliance
+NCB,Name Continuation Block
+NCC,National Computer Conference,Network Configuration Control,Network Control Center
+NCCF,Network Communications Control Facility
+NCG,New College Graduate
+NCMOS,N-Channel CMOS
+NCMS,National Center for Manufacturing Sciences
+NCP,Network Communications Program,Network Control Program
+NCSA,National Center for Supercomputing Applications
+NCT,Network Computing Tools
+NDA,Nondisclosure Agreement
+NDB,Name Definition Block,Network Data Base
+NDP,Nubus Data Path
+NDPC,Network Data Processing Center
+NDR,Nondestructive Read
+NDRO,Nondestructive Readout
+NDS,Name Definition Segment
+NDT,Nondestructive Testing
+NE,Not Equal To
+NEQ,Not Equal To
+NE,Nonexempt
+NX,Nonexempt
+NEA,National Energy Act
+NEBS,Network Equipment Building Specifications
+NEC,National Electric Code,National Electronics Conference,Nippon Electric Company
+NEDA,National Electronics Distributors Association
+NEI,New Employee Initiative
+NEM,Numerical Exerciser For Memory
+NEMA,National Electrical Manufacturers Association,National Equipment Manufacturers Association
+NEO,New Employee Orientation
+NEOS,New Employee Orientation Seminars
+NEQ,Not Equal To
+NES,Nintendo Entertainment System
+NEX,Nonexempt
+NFA,Net Fixed Assets
+NFBGA,New Fine pitch Ball Grid Array
+NFC,National Field Communication
+NFET,N-channel Field Effect Transistor
+NFPA,National Fire Protection Association
+NGA,Next Generation Accounting
+NGB,Net Gross Bookings
+NGC,Next Generation Controller
+NGT,Nominal Group Technique
+NIC,Network Interface Card Newly-Industrialized Country
+NIH,National Institute Of Health,Not In House,Not Invented Here
+NII,National Information Infrastructure
+NIIT,National Institute on Information Technology
+NIM,Noninventoriable Manufacturing,Network Interface Module
+NIMC,Noninventoriable Manufacturing Cost
+NIO,Network Input-Output
+NIOSH,National Institute For Occupational Safety and Health
+NIR,Near Infra-Red
+NIS,Not In Stock
+NISO,National Imaging Standards Organization
+NIST,National Institute of Standards and Technology
+NJP,Network Job Processing
+NL,Natick Laboratory
+NLR,Non-Linear Resistance
+NLRA,National Labor Relations Act
+NLRB,National Labor Relations Board
+NM,Nanometers Network Module
+NMOS,N-Channel MOS
+NMR,Normal Mode Rejection,Nuclear Magnetic Resonance
+NMS,Network Management Station,NetWare Management Station
+NNI,Netherlands National Standards Body
+NO,Normally Open
+NOPS,Network Order Processing System
+NOR,Inverted or Gate
+NOS,Network Operating Systems
+NPA,Network Performance Analyzer
+NPAT,New-Product Action Team
+NPD,New Product Development
+NPDA,Network Problem Determination Aid
+NPDN,Nordic Public Data Network
+NPE,New Product Execution
+NPGI,New Product Growth Initiative
+NPL,Nonprocedural Language
+NPR,Nonperiodic Review
+NR,Net Revenue
+NRB,Name Request Block
+NRE,Nonrecurring Engineering
+NRFD,Not Ready For Data
+NRL,National Reference Library for Science and Invention
+NRMA,National Retail Merchants Association
+NRND,Not recommended for new designs
+NRT,Near Real Time
+NRZ,Nonreturn to Zero
+NRZI,Nonreturn to Zero Inverted
+NS,National Semiconductor
+NSE,Net Sales Entered
+NSEC,Nanosecond
+NSF,National Science Foundation,Net Square Feet
+NSIA,National Security Industries Association
+NSMF,Night Sight Maintenance Facility
+NSP,Network Services Protocol
+NT,New Technology
+NTAT,New Technology Action Team
+NTIA,National Telecommunications and Information Administration
+NTO,Network Terminal Option
+NTSC,National Television System Committee
+NTWBC,North Texas Womens Business Council
+NUB,Net Units Billed
+NUE,Net Units Entered
+NUM,Net Units Manufactured
+NUSIM,Logic Simulation Test Program
+NVH,Noise Vibration Harshness
+NVM,Nonvolatile Memory
+NVOD,Near Video on Demand
+NX,Nonexempt
+NYSE,New York Stock Exchange

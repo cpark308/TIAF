@@ -1,0 +1,172 @@
+E,Exempt
+E&PS,Educational and Productivity Solutions
+EAM,Electrical Accounting Machine,Emergency Action Message
+EAME,Europe Africa and Middle East
+EAMS,Educational Assistance Management System
+EAP,Employee Assistance Program
+EAR,Employee Accounts Receivable,Educational Assistance Reimbursement
+EAROM,Electrically Alterable Read Only Memory
+EAS,Exchange active sync
+EB,Ending Balance
+EBAM,Electron Beam Addressable Memory
+EBCDIC,Extended Binary Coded Decimal Interchange Code
+EBM,Electron Beam Machine
+EBP,Enterprise Buyer Professional
+EBR,Electron Beam Recorder
+EBT,East Building Test
+EC,European Community
+EC LAN,Electronic Communication Local Area Network
+ECB,Event Control Block,Engine Control Board
+ECC,Error Correction Coding
+ECCN,Export Control Classification Number
+ECD,Electro Chromic Displays,Electro Chemical Deposition
+ECFO,Electronic Control Functions Objective
+ECFO,Electronic Control Functions Objective
+ECM,Electro Chemical Machining,Electronic Component Mount,Extended Control Mode
+ECMA,European Computer Manufacturer's Association
+ECN,Engineering Change Notice
+ECO,Enterprise Computing Operations,Engineering Change Order
+ECOM,Electronic Computer Originated Mail
+ECON,Electronic Conference
+ECP,Electro Chemical Plating
+ECR,Electrical Chart Recorder,ECS	End User Statement,ECU End User Certificate
+EDA,Electronic Design Automation,Exploratory Data Analysis
+EDAC,Error Detection and Correction
+EDC,Engineering Distributed Computing,Effective Distribution Concept,European Distribution Center
+EDD,Electronic Document Distribution
+EDGE,Engineering Distributed Graphics Environment,Enchanced Data rate for GSM or Global Evolution
+EDI,Engineering Depreciation Index,Electronic Data Interchange
+EDIF,Electronic Design Interchange Format
+EDM,External Development and Manufacturing,Electrical Discharge Machining,Engineering Data Management
+EDO,Extended Data Output
+EDP,Engineering Development Program,Electronic Data Processing
+EDT,Digital Standard Editor,Electronic Digital Thermostat
+EE,Electrical Engineer
+EEI,Engineering Effectiveness Index
+EEM,Electronic Engineers Master
+EEO,Equal Employment Opportunity
+EEPROM,Electrically Erasable Programmable Read Only Memory
+EEU,Engineering Evaluation Use
+EFL,Emitter Follower Logic
+EFO,Electronic Functions Objective
+EFQM,Erasable Graphics Read Only Memory
+EFR,Early Failure Rate,Enhanced Full Rate,Equipment Failure Reporting
+EFT,Electronic Funds Transfer
+EFTS,Electronic Funds Transfer System
+EGO,Exposed Gate Oxide
+EGORM,Erasable Graphics Read Only Memory
+EHD,Entity Hierarchy Diagram
+EHF,Extremely High Frequency
+EHR,Extra High Reliability
+EIA,Electronic Industries Alliance,Electronic Institute of America
+EIAJ,Electronics Industries Association Of Japan
+EIBT,Extended International Business Trip
+EIC,European Information Center
+EICC,Electronics Industry Citizenship
+EIDX,Electronic Industry Data Exchange
+EIP,Enterprise Integration Program
+EIS,Electronic Image Stabilization
+EISA,Extended Industry Standards Architecture
+EIT,Engineer In Training
+EIU,Electronic Interconnect Unit
+EJB,Engineering Java Beans
+ELD,Electro Luminescent Display
+ELF,Extremely Low Frequency
+ELS,Emitter Location System
+EM,Electromagnetic,Electro migration,Enterprise Model
+EMC,Electromagnetic Compatibility
+EMCD,European Materials and Controls Division
+EMCON,Emission Control
+EMD,Engineering and Manufacturing Development
+EMEA,Europe Middle East and Africa
+EMI,Early Manufacturing Involvement,Electromagnetic Interference,Electromagnetic Interface
+EMIF,External Memory Interface
+EMIS,European Management Information Systems
+EMMD,European Metallurgical Materials Division
+EMMS,Electronic Mail and Message System,Electronic Material Manifest System
+EMR,Electromagnetic Radiation
+EMS,Electronic Message Systems
+EMSG,Electronic Master Selection Guide
+EMSI,Electronic Manufacturing Services Industry
+EMTA,Embedded Multimedia Terminal Adapter
+EN2900,Same as ISO 9000
+ENIAC,Electronic Numeric Integrator and Computer
+ENQ,Enquiry
+EO,Electro Optical,Engineering Order
+EOA,End Of Address
+EOB,End Of Block,End of Business
+EOC,Electro Optical Components,End Of Character
+EOCOM,Electro Optical Communications
+EOD,End of Day
+EOF,End Of Field,End Of File
+EOHAE,Excess on hand at end
+EOJ,End Of Job
+EOL,End Of Line
+EOM,End Of Message,End Of Month
+EOP,End Of Period
+EOQ,Economic Order Quantity
+EOS,End Of Scan,Engineering Operating System
+EOT,End Of Tape,End Of Transmission,External Oracle Table
+EOV,End Of Volume
+EP,Enhanced Plastic,External Purchase,Embedded Processing
+EPA,Environmental Protection Agency,Europe Patent Authority
+EPAPX,Electronic Private Automatic Branch Exchange
+EPGI,Existing Product Growth Initiative
+EPH,Electronic Print Head
+EPI,Epitaxial Material
+EPIC,Enhanced Performance Implanted CMOS
+EPLD,Erasable Programmable Logic Device
+EPMS,Engineering Project Management System
+EPOC,European Production Operations Control
+EPP,Employee Purchase Program
+EPPD,Earliest Planned Pull Date
+EPROM,Erasable, Programmable Read Only Memory,Electrically Programmable Read Only Memory
+EPSD,Earliest Possible Start Date,Estimated Planned Ship Date
+EPSI,Easy Peripheral Software Interface
+EPSS,Electronic Performance Support System
+EPU,Events Per Unit Time
+EQ,Enterprise Qualification,Equal To
+ERA,Electronic Routing and Approval
+ERB,Employee Recognition Bonus
+ERC,Edge Rate Control
+ERD,Estimated Release Date
+ERDL,Equipment R and D Laboratory
+ERISA,Employee Retirement Income Security Act of 1974
+EROI,Engineering Return On Investment
+EROM,Eraseable Read Only Memory
+ERP,Enterprise Resource Planning,Employee Referral Program,Exploratory Research Program
+ERU,Emergency Response Unit
+ES,Etch Stop,Engineering Sample,Enterprise Systems,Etch Side
+ESA,Electronic System Assembly Operation,Engineering Servicer and Automation,Enterprise System Architecture,European Space Agency
+ESACS,Equipment Support and Control Systems
+ESC,Escape
+ESCA,Electron Spectroscopy for Chemical Analysis
+ESD,Electro Static Discharge,Engineering Systems Development,Estimated Ship Date,Enterprise Software Distribution
+ESDA,Enhanced Software Defect Analysis
+ESDV,Emergency Shutdown Valve
+ESH,Environmental Safety and Health
+ESIM,Event Logic Simulation
+ESP,Expert Selection Program,Expert Systems for Productibility,Extended Symmetric Processing,Expert Selection Program,Extra Sensory Perception
+ESPP,Employee Stock Purchase Plan
+ESR,Equivalent Series Resistance
+ESR,Environmental and Social Responsibility
+ET,Education Technology
+ETA,Estimated time of arrival
+ETB,End of Transmission Block
+ETDL,Electron Technology and Device Laboratory
+ETL,Engineer Topographic Laboratory,Enhanced Transceiver Logic
+ETM,Element Test and Maintenance
+ETN,Electronic Tandem Network
+ETS,Electronic Tracking System
+ETSI,European Telecommunications Standards Institute
+ETX,End Of Text,End Of Transmission Character
+EU,End User,European Union
+EVB,Evaluation Board
+EVDT,Editing Video Display Terminal
+EVM,Evaluation Module
+EVP,Executive Vice President
+EWOS,European Workshop for Open Systems
+EWR,Engineering Work Request
+EWS,Engineering Work Station
+EX,Exempt
+EXTND,Extended Data Transistor

@@ -1,0 +1,94 @@
+V,Variable,Volt
+VD,Voice Data
+VA,Value Adjustment,Volt Amps
+VAC,Voltage Alternating Current
+VAD,Value Added Distributor
+VAM,Vision-Aided Manufacturing,Volt-ammeter
+VAN,Value Added Network
+VAP,Validated Audit Process
+VAR,Value Added Remarketer
+VASI,Visual Approach Slope Indicator
+VAT,Value Added Tax,Vision-Aided Testing
+VATS,Vision-Aided Testing System
+VAX,Virtual Address Extension
+VB,Variable Blocked
+VBAP,Voice Band Audio Processor
+VBUS,Video bus
+VCF,Voltage-Controlled Frequency
+VCI,Value Computing Incorporated
+VCO,Voltage-Controlled Oscillator
+VCR,Videocassette Recorder,Volume Control Record
+VCS,Veracost cluster server
+VD,Voltage Drop
+VDC,Voltage Direct Current
+VDE,Verband Deutscher Electrotechniker
+VDI,Video Display Input
+VDP,Video Data Processor
+VDSL,Very High-Speed Digital Subscriber Line
+VDT,Video Display Terminal
+VDU,Visual Display Unit
+VEC,Voluntary Employee Contributions
+VENUS,Variable Entity Network Utilization Scheduler,Virtual Extended Network Universal Scheduler
+VES,Via etch-stop
+VETRONICS,Variable Entity Network Utilization Scheduler,Virtual Extended Network Universal Scheduler
+VF,Variable Entity Network Utilization Scheduler,Virtual Extended Network Universal Scheduler
+VFC,Voltage-to-Frequency Convertor
+VFO,Variable Frequency Oscillator
+VGA,Video Graphics Adapter,Video Graphics Array
+VHDL,VHSIC Hardware Descriptive Language
+VHF,Very High Frequency
+VHLL,Very High-Level Language
+VHSIC,Very High Speed Integrated Circuits
+VIEW,VHSIC Integrated Environment Workstation
+VIF,Volume Information Format
+VIL,Vertical Injection Logic
+VIM,Vectored interrupt manager
+VIP,Vendor Improvement Program,Very Important Person,Video Interface Palette
+VISTA,Visualization of Intelligence Supporting 3-D Analysis
+VLB,Very Large Bar
+VLC,Variable Length Coding
+VLCT,Very Low Cost Tester
+VLED,Visible Light Emitting Diode
+VLF,Vertical Laminar Flow,Very Low Frequency
+VLSI,Very Large Scale Integration
+VMC,Valid Meet Comp
+VMOS,Vertical MOS
+VMS,Vehicle Management System,Virtual Memory System
+VMX,Voice Message Exchange
+VOC,Voice of the Customer,Voice-Operated Coder
+VOCOM,Voice Communication
+VOM,Volt Ohm Meter
+VOP,Voice Over Packet
+VP,Vice President,Video Processor
+VPC,Vertical Probe Card
+VPE,Vapor Phase Epitaxy
+VPL,Vertical Poly Link
+VPN,Virtual Page Number,Virtual Private Network
+VPSC,Video Program Station Control
+VPU,Video Programming Unit
+VR,Voucher Register
+VRA,Video Radio and Audio
+VRC,Vertical Redundancy Check,Visual Record Computer
+VRF,Vendor Repair Facility
+VROM,Vocabulary Read-Only Memory
+VSA,Vendor Survey and Approval
+VSAM,Virtual Storage Access Method
+VSB,Vestigal Sideband
+VSC,Video Systems Controller
+VSI,Vertical Speed Indicator
+VSM,Virtual Storage Management,Voice-Synthesis Memory
+VSMF,Visual Search Microfilm
+VSOIC,Very-Small-Outline Integrated Circuit
+VSOP,Very-Small-Outline Package
+VSP,Voice-Synthesis Processor
+VSWR,Voltage Standing-Wave Ratio
+VTAM,Virtual Telecommunications Access Method
+VTI,Virtual Terminal Interface
+VTOC,Volume Table Of Contents
+VTP,Video Text Processor,Voltage Temperature Process
+VTR,Video-Tape Recorder
+VU,Voice Unit,Volume Unit
+VUE,Vocabulary Units Entered
+VVCM,The Verification and Validation Compliance Matrix
+VATHCT,Value-Added Theoretical Cycle Time
+VODSL,Voice Over DSL

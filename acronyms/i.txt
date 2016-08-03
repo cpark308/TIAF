@@ -1,0 +1,192 @@
+I&EP,Industrial & Electrical Products
+IF,Interface
+IO,Input Output, Inventory Optimization
+IS,Information Systems
+I2,Imagery Interpretation,Ion Implantation
+I2C,Inter-Integrated Circuit which is a serial communications bus
+I2D,Interactive Integrated Distributed Database
+IID,Interactive Integrated Distributed Database
+I2L,Integrated Injection Logic
+IID,Integrated Injection Logic
+I2S,Inter IC Sound
+IAHR,International Assignment Human Resources
+IAS,Industry Applications Specialist,Integrated ASIC Systems
+IATF,International Automotive Task Force
+IAW,In Accordance With
+IBDS,Integrated Board Design System
+IBIS,IO Buffer Information Specification
+IBM,International Business Machines
+IBP,International Bar Price
+IC,Integrated Circuit
+ICA,International Communication Association
+ICAITI,Central American Regional Standards Body
+ICAT,Issues and Corrective Action Teams
+ICC,IC Compiler
+ICCE,International Conference on Consumer Electronics
+ICCP,Institute for the Certification of Computer Professionals
+ICCR,Internal Control Compliance Reporting
+ICDFMS,Industrial Controls Department Field Marketing Support
+ICE,Imaging and Communications Environment,In-Circuit Emulator
+ICES,Interactive Cost Estimating System
+ICG,Integrated Clock Gating
+ICN,Inventory Change Notice
+ICO,Intra company Objective
+ICP,Interface and Clock Products,Internal Compliance Program
+ICR,Intelligent Character Recognition
+ICSS,Improved Contact Support Set
+ICT,Information and Communications Technology
+ICU,Interrupt Control Unit
+ID,Invention Disclosure,Identifier
+IDAM,Interactive Data Access Method
+IDAS,Integrated Data-Processed Assembly System
+IDC,Internal Destination Code,International Data Corporation
+IDDD,International Direct Distance Dialing
+IDE,Integrated Development Environment
+IDEA,Identify Develop Expose and Act,Integrated Desktop Environment or Architecture
+IDF,Intermediate Distribution Facility
+IDL,Interactive Data Librarian,Intermediate Display Language
+IDM,Integrated Data Management
+IDP,Integrated Data Processing,Individual Development Plan
+IDS,Input-Data Strobe,Inspection Data System
+IDSS,International Distributed Systems Support
+IDTS,Interactive Data Transfer System
+IEC,Infused Emitter Coupling,Inter-Exchange Carrier,International Electro-technical Commission
+IEEE,Institute of Electronic and Electrical Engineers
+IEF,Information Engineering Facility
+IEM,Information Engineering Methodology
+IEP,Information Exchange Program
+IEX,Indirect Exempt
+IF,Intermediate Frequency
+IFB,Invitation For Bid
+IFD,Integrated Feasibility Demonstration
+IFIPS,International Federation of Information Processing Societies
+IFP,Invitation For Bid
+IFS,Integrated Factory System
+IGES,Initial Graphics Exchange Standard,International Graphics Exchange Specifications
+IGL,Intermediate Graphics Language
+IGS,Interactive Graphics System
+IHS,Information Handling Service
+II,Imagery Interpretation,Ion Implantation
+I2,Imagery Interpretation,Ion Implantation
+IIA,Information Industry Association,Institute of Internal Auditors
+IIBU,Internet Infrastructure Business Unit
+IID,Interactive Integrated Distributed Database
+I2D,Interactive Integrated Distributed Database
+IIIS,Incoming Inspection Information System,Interactive Intelligent Information System
+I3S,Incoming Inspection Information System,Interactive Intelligent Information System
+IIL,Integrated Injection Logic
+I2L,Integrated Injection Logic
+IIR,Infinite Impulse Response
+IITV,Imaging Intensification TV
+ILD,Inter-Layer Dielectric
+ILIR,In-house Laboratories Independent Research
+IM,Internet Marketing
+IMAC,Inventory Management and Control
+IMD,Intra-Metal Dielectric
+IMEI,International Mobile Equipment Identity
+IMEX,Import Export
+IMIP,Industrial Modernization Incentives Program
+IMKA,Initiative for Managing Knowledge Assets
+IMM,Inventory Management Module
+IMOX,Implantation Oxide-Isolation Technology
+IMP,Interface Message Processor
+IMPACT,Implanted Advanced Composed Technology
+IMS,Information Management System,Internal Mode Switch
+IMSL,International Mathematical and Statistical Libraries Incorporated
+IMU,Inertial Measurement Unit
+IMW,Intelligent Machining Workstation
+IN,Intelligent Network
+INAV,Integrated Navigation,Integrated Navigation System
+INEX,Indirect Nonexempt
+INPACS,Integrated Numerical Processing and Control System
+INSB,Indium Antimonide
+INT,Interface Products
+INTELSAT,International Telecommunications Satellite Corporation
+INTSIM,Integrated Simulator
+INV,Inventory System
+IOB,Input Output Block,Input Output Control Block
+IOC,Initial Operational Capability
+IOCS,Input Output Control System
+IOD,Information on Display
+IOE,Integrated Operating Environment
+IOP,Input Output Processor,Inter-Operabiliy Test
+IOS,Input Output Supervisor
+IOT,Inter-Operability Test
+IOU,IO Utility
+IP,Inertial Platform,Intelligent Peripheral,Internet Protocol,Intellectual Property
+IPB,Illustrated Parts Breakdown
+IPC,Impact C.,Intermitter Positive Control,Interprocess Communication
+IPD,Integrated Product Development
+IPDP,Integrated Product Development Process
+IPEWS,Integrated Product Development Process
+IPG,Integrated Products Group
+IPL,Image Processing Laboratory,Initial Program Load
+IPO,Initial Public Offering,Installation Productivity Options,Initial Production Order
+IPROS,Integrated Proposal System
+IPS,Image Processing System,Inches Per Second,Information Processing System,Industrial Pressure Switch
+IPT,Improved Productivity Techniques,Improved Programming Techniques,Incoming Process Traveler
+IQAS,Quality Alert System
+IQC,Incoming Quality Control
+IQF,Interactive Query Facility
+IQIT,Issue Quality Improvement Team
+IQP,Incoming Quality Plan
+IQPC,Incoming Quality Plan Control
+IR,Image Register,Incident Report,Industrial Relations,Infrared,Inventory Report
+IR&D,Independent Research And Development
+IRB,IO Request block
+IRC,International Record Carrier
+IRCCM,Infrared Counter-Countermeasures
+IRCM,IR Countermeasures
+IRD,Independent Research and Development
+IRDA,Infrared Data Association
+IRDS,Infrared Detecting Set
+IRF,Information Retrieval Facility
+IRIS,Infrared Interferometer Spectrometer
+IRLS,Infrared Line Scanner
+IRM,Information Resource Management
+IRQ,Interrupt Request
+IRS,IMS Request System,Interactive Retrieval System,Internal Revenue Service
+IRST,Infrared Search and Track
+IRU,Inertial Reference Unit
+ISA,Instrument Society Of America
+ISAM,Indexed Sequential Access Method
+ISC,Idle Speed Control,Intersystem Communication
+ISD,Infrared Detection System
+ISDN,Integrated Service Digital Network
+ISE,Internal Sales Engineer,International Software Exchange
+ISM,Industrial Scientific and Medical,902 to 928M Hertz,Spread spectrum of 1 Watt,Microwave ovens of 750 Watts,Industrial heaters of up to 100 kilo Watts,Military radar of up to 1000 kilo Watts
+ISN,Inter-Systems Network
+ISO,International Quality Standard ISO 9000,International Standards Organization
+ISP,Independent Study Program,Industrial Systems Protocol,Information Systems Planning,Integrated Systems Process,Internet Service Provider
+ISPF,Interactive System Productivity Facility
+ISPM,In-situ Particle Monitor
+ISR,Inside Sales Representative
+ISRAD,Integrated Software Research And Development
+ISS,Integrated Sensor System Program
+ISSP,Information Infrastructure Standards Panel
+ISSS,Integrated Software Support System
+ISST,Integrated Solid State Transistor
+ISTO,International Semiconductor Trade Operations
+ISV,Independent Software Vendors
+IT,Information Technology,Intelligent Transmitter,Internal Material Transfer,IT Service,Information Technology Services
+ITA,International Teleconferencing Association
+ITAR,International Traffic in Arms Regulation
+ITD,Inception-To-Date
+ITEP,Individual Training and Education Plan
+ITI,Interface Technology Laboratory
+ITL,Interface Technology Laboratory
+ITLT,Information Technology Leadership Team
+ITM,Integrated Text Management
+ITO,Indium Tint Oxide,Interconnect Technology Operations
+ITR,Information Technology Readiness
+ITS,Information Technology Services
+ITSA,Intelligent Transportation Society of America
+ITSS,Integrated Total Security System
+ITT,ITT Industries International,Telephone and Telegraph
+ITY,Integrated Test Yield
+IUP,Installed User Product
+IVHS,Intelligent Vehicle Highway System
+IW,In Warranty
+IWO,Indirect Word Order
+IWP,International Word Processing Association
+IX,Index register

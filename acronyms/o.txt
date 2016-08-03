@@ -1,0 +1,123 @@
+O,Overhead in terms of full or inventoriable
+OB,Octal to Binary
+OS,Open Short
+OA,Override Agreement
+OA,Office Automation,Optical Augmentation,Option Agreement
+OAD,Overlay Area Description
+OADCE,Open Architecture Distribution Computing Environment
+OADP,Optical At Drop Multiplexer
+OAG,Official Airline Guide
+OAM,Operations Administration Maintenance
+OAR,Open Air Rack
+OARS,Open Air Rack System
+OAS,Order Automation System
+OAT,Office Automation Tools,Office Automation Training,Organization Analysis Table
+OAW,Overlay Area Wait
+OBIRCH,Optical Beam Induced Resistance Change
+OBIS,Open Business Information Systems
+OBS,Obsolescence,Obsolete,Open Business Systems,Organization Breakdown Structure
+OC,Open Collector,Open Commitments
+OCC,Other Common Carrier
+OCF,Owner Control File
+OCI,Optically Coupled Isolator
+OCLC,Online Computer Library Center Incorporated
+OCM,Operator Console Module
+OCN,Operation Change Notice
+OCP,Operator Command Processor,Overcurrent protection
+OCR,Optical Character Reader,Optical Character Recognition
+OCV,On-Chip Variation
+OD,Operation Directive,Outside Diameter
+OD&C,Other Division and Corporate
+ODC,Off-site development center
+ODM,Original Design Manufacturer
+ODP,Office Data Processing,Operating Decision Package
+ODS,Output Data Store
+ODU,Output Display Unit
+OE,Order Entry,Output Enable
+OEB,Order Entry or Billings
+OEC,Open Enterprise Computing,Output Edge Control
+OEE,Overall Equipment Efficiency
+OEF,Order Entry Form
+OEI,Open Enterprise Infrastructure
+OEM,Original Equipment Manufacturer
+OEPC,Optical and Etch Proximity Correction
+OES,Order Entry System
+OET,Organizational Effectiveness Team
+OFCC,Office of Federal Contract Compliance
+OFCT,Order Fulfillment Cycle Time
+OFDM,Orthogonal Frequency Division Multiplexing
+OFI,Opportunity For Improvement
+OFR,Order Fulfillment Re-engineering
+OGA,Office of Government Affairs
+OH,Overhead
+OHNC,Occupational Health Nurse Cons
+OI,Oxide Isolated
+OIE,Other Income and Expense
+OIC,Optical Integrated Circuit
+OID,Operator Instruction Document
+OIS,Office Information System
+OJC,Operation Job Card
+OJT,On-Job Training
+OL,Operating Location
+OLE,Object Linking and Embedding
+OLIS,On-Line Information Systems
+OLP,On-Line Procedures
+OLTT,On-Line Teller Terminal
+OM,Other Material
+OMAP,Open Multimedia Application Platform
+OMB,Office of Management and Budget
+OMC,Other Manufacturing Costs
+OMR,Office Methods Research
+OMS,Operations Management System
+ONUS,Optical Network Units
+OO,Object Oriented
+OODB,Object Oriented Database
+OOF,Open Order File
+OOH,Other Overhead
+OOP,Object Oriented Programming
+OOS,Out of Spec
+OOW,Out-Of-Warranty
+OP,Operation
+OPAMP,Operational Amplifier
+OPAL,Operational Performance-Analysis Language
+OPATSS,Offshore Product Acceptance Tests Specification System
+OPBU,OMAP Platform Business Unit
+OPC,Optical Proximity Correction,Organic Photo Conductor
+OPEC,Organization of Petroleum Exporting Countries
+OPEVAL,Operation Evaluation
+OPN,Operation
+OPPD,Optimal Planned Pull Date
+OPPROC,Operation Procedures
+OPS,Operations
+OR,Operations Research,Overrun,Oxide Removal
+ORD,On-line Remote Diagnostics
+ORG,Organization
+ORM,On-going Reliability Monitoring
+ORP,Oxide Removal Process
+OS,Office System,Operating Services,Operating System,Outside Submission
+OSVS,Operating System and Virtual Storage
+OSAM,Overflow Sequential Access Method
+OSC,Oscillator
+OSD,Optimized Ship Date
+OSE,Overseas Eligibility
+OSG,Organo-silicate glass
+OSHA,Occupational Safety and Health Administration
+OSI,Open System Interconnection
+OSK,OMAP Starter Kit
+OSM,Organization Structure Model
+OSP,Organic Solderability Preservative
+OSPM,Operation System Directed Power Management
+OSR,Original Stock Requisition,Outside Sales Representative
+OSS,Office of Statistical Standards
+OST,Objectives Strategies and Tactics
+OSV,On-Site Vendor
+OTA,Operator Type Approval
+OTC,OMAP Technology Center,Operational Transfer Cost
+OTDR,Optical Time Domain Reflectometer
+OTP,One-Time Programmable,Operating Transfer Price
+OV,Overflow
+OVB,Overhead Beet
+OVLYS,Overlays
+OVP,Over Voltage Protection
+OVT,Overlay Table Entry
+OWM,Office of Weights and Measures

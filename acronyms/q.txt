@@ -1,0 +1,48 @@
+Q7,The Seven Quality Tools
+QA,Quality Assurance
+QAIIR,Quality Assurance Incoming Inspection Rejection,Quality Alert System
+QB,Quick Break
+QBE,Query By Example
+QBS,Qualify by Similarity
+QC,Quality Circle,Quality Control
+QCN,Quality Change Notice
+QCRT,Quality Control Reject Tag
+QEA,Quality Export Asset
+QER,Quality Export Receipt
+QFD,Quality Function Deployment
+QFN,Quad Flat No leads
+QFP,Quad Flat Pack
+QFR,Quarterly Financial Report,Quarterly Financial Review
+QHR,Queue Header
+QI,Quality Improvement
+QIO,Queue IO Request
+QIP,Quality Implementation Plan,Quality Improvement Program,Quality Improvement Project
+QIPT,Quality Improvement Project Team
+QIS,Quality Information System
+QIT,Quality Improvement Team
+QIW,Quality Improvement Workshop
+QLF,Quick-Look File
+QLI,Query Language Interface
+QML,Qualified Manufacturers list
+QOI,Quality Operating Instruction
+QOR,Quarterly Operations Review,Quality of Result
+QPA,Quantity Purchase Agreement
+QPDS,Quality Price Delivery Service
+QPL,Qualified Products List
+QRA,Quality and Reliability Assurance
+QRAS,Quality and Reliability Assurance Specification
+QRO,Quality Reliability and Operations
+QROST,Quarterly OST Report
+QSAM,Queued Sequential Access Method
+QSM,Quality System Manual
+QSP,Quality Systems Procedure
+QSS,Quality System Standard
+QST,Quality Steering Team,Queue Service Task
+QTAC,Quality Tracking And Control
+QTAM,Queued Telecommunications Access Method
+QTD,Quarter to Date
+QTS,Quality Tracking System
+QUASAR,Quality Assurance Assessment Reference
+QUIL,Quad In-Line IC Package
+QWERTY,Traditional Typewriter Keyboard Starting With These 6 Letters
+QWL,Quality Of Work Life

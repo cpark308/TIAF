@@ -1,0 +1,84 @@
+G&A,General and Administrative
+G168,International Telecommunication Union standard for voice over IP echo cancellers
+GL,General Ledger
+GAALAS,Gallium Aluminum Arsenide
+GAAP,Generally Accepted Accounting Principles
+GAAS,Gallium Arsenide
+GADS,Gate Assignment Display System
+GAM,Global Asset Management
+GAO,General Accounting Office
+GAP,Gallium Phosphide
+GATT,General Agreement for Tariffs and Trade
+GB,Gigabyte
+GBGA,Generic Ball Grid Array
+GBL,Government Bill of Lading,Government Bonded Locker
+GC,Gas Chromatograph
+GCA,Grayson County Airport
+GCF,Global Certification Forum
+GCR,Global Control Register
+GD,Ground Detector
+GD&T,Geometric Dimensioning and Tolerance
+GDG,Generation Data Group
+GDS,Graphic Data System
+GE,General Electric,Germanium,Greater Than Or Equal To
+GEB,Good Electrical Bars
+GEBO,Government Electronics Business Objective
+GEC,Good Electrical Chip
+GENINFO,General Information Manual,GERAN GSM,Radio Access Network
+GFCP,Generic Front End Communication Processor
+GFE,Government-Furnished Equipment
+GFM,Government-Furnished Material
+GFR,Gap-Filled Radar
+GGG,Gadolinium Gallium Garnet
+GGP,GPS Guidance Package
+GHZ,Gigahertz
+GIC,Guaranteed Investment Contract
+GIGO,"Garbage In, Garbage Out"
+GII,Global Information Infrastructure
+GIL,Graphics Interface Language
+GIS,Generalized Information System,Graphics Interface Software
+GLITE,A version of ADSL geared toward the consumer
+GM,Group Management,General Manager
+GMB,Good Magnetic Bar
+GMJD,Generic Master Job Definition
+GML,Generalized Markup Language
+GMS,Group Manufacturing Services
+GMT,Greenwich Mean Time
+GND,Ground
+GNP,Gross National Product
+GOI,Gate Oxide Integrity
+GP,General Purpose
+GPA,Grade Point Average
+GPAF,Graphical Application Facility
+GPD,Gate Placement Deck
+GPIB,General-Purpose Interface Bus
+GPIBA,General-Purpose Interface Bus Adapter
+GPIO,General-Purpose Input Output
+GPL,Graphics Programming Language,General Purpose Logic
+GPM,Gross Product Margin
+GPN,Generic Part Number
+GPP,Gate Placement Program
+GPRS,General Packet Radio Service
+GPS,Global Positioning Systems
+GPSR,Global Positioning Satellite Receiver
+GRAM,Graphics Random Access Memory
+GRC,Group Resources Committee
+GRES,Global Real Estate Solutions
+GRM,Global Resource Management
+GROM,Graphics Rom or Solid State Software
+GSA,General Services Administration
+GSAM,Generalized Sequential Access Method
+GSF,Gross Square Feet
+GSI,Geophysical Service Incorporated,Government Source Inspection
+GSM,Global System for Mobile communications
+GSP,Good Sample Probe,Graphic Signal Processor
+GST,Greenwich Sidereal Time
+GT,Greater Than,Group Technology
+GTB,GEB Transfer Price
+GTC,Global Trade Compliance
+GTLP,Gunning Transceiver Logic-Plus
+GTN,Global Transportation Network
+GTS,Global Trade Services
+GUB,Generalized Upper-Bounded
+GUI,Graphical User Interface
+GUS,Greater User Service

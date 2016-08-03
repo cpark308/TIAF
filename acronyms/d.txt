@@ -1,0 +1,253 @@
+D&A,Department and Allocated
+D&D,Department and Division,Design and Development
+DA,Digital to Analog Converter,Design Assurance,Design Automation,Dallas site
+DAA,Distributed Application Architecture,Data Access Arrangement
+DAB,Digital Audio Broadcast
+DAC,Design Automation Conference,Digital Analog Converter
+DACS,Design Automation Control System
+DAD,Design Automation Department
+DAE,Distributed Applications Environment
+DAMA,Demand Assignment Multiple Access
+DAO,Device Analysis Operation
+DAP,Data Access Protocol,Dynamic Application Program
+DAPS,Distributed Application Processing System
+DAQ,Distributor Auto Quote
+DARPA,Defense Advanced Research Projects Agency
+DAS,Data Acquisition System
+Data,Administration System
+DASD,Direct Access Storage Device
+DAT,Digital Audio Tape,Dynamic Address Translation,Dynamic Auto Tuning
+DAU,Data Acquisition Unit
+DAV,Digital Audio Video,Data Available,Data Valid
+DB,Decibel,Data Base
+DBDC,Database and Data Communication
+DB2,Database Second Generation
+DBA,Database Administrator
+DBAM,Database Access Method
+DBB,Digital Baseband
+DBBP,Database Buffer Pool
+DBC,Database Creation
+DBCS,Database Control System
+DBD,Database Definition Block
+DBE,Database Environment
+DBLR,Database Log and Restore Kit
+DBM,Database Machine
+DBMS,Database Management System
+DBOS,Database Operations System
+DBP,Distributor Buy Price
+DBPRS,Database Performance Reporting System
+DBRC,Database Recovery Control
+DBRM,Database Request Module
+DC,Design Compiler
+DCAD,Digital Computer Aided Design
+DCB,Data Control Block
+DCC,Distributed Computing Council,Discrete Cell Controller,Dallas Chemical Center
+DCCS,Data Collection and Control Subsystem
+DCD,Data Carrier Detect,Data Correlation and Documentation System,Digital Circuits Division
+DCE,Data Circuit Terminating Equipment,Data Communication Equipment,Detector Cryogenics and Emitter,Distributed Computing Environment
+DCES,Digital Consumer Electronics Solutions
+DCF,Data Connector and Formatter,Design Rule for Camera File Systems,Document Composition Facility
+DCL,Digital Command Language
+DCM,Display Control Module,Dispersion Compensation Module
+DCO,Digitally Controlled Oscillator
+DCP,Data Collector Processor,Data Communications Processor,Decision Coordinating Paper,Digital Compression Products,Distributed Communications Processor
+DCPIF,Distributed Communications Processor Interface
+DCPS,Digitally Controlled Power Source
+DCR,Data Capture Record
+DCS,Data Communications System,Distributed Communications System,Distributed Computer Services
+DCT,Discrete Cosine Transforms,Data Capture Template
+DD,Data Definition,Day
+DDD,Data Dictionary or Directory
+DDA,Device Driver Adaptation Layer
+DDC,Device Driver Core
+DDCMP,Digital Data Communications Message Protocol
+DDCS,Digital Data Collection System
+DDD,Direct Digital Control
+DDE,Digital Display Engine,Dynamic Data Exchange
+DDF,Distributed Data Facility
+DDIP,Digital Design Input Processor
+DDK,Driver Development Kit
+DDL,Data Description Language,Delivery Due List
+DDM,Data Display Module,Device Dependent Module,Distributed Data Management
+DDOM,Depth Domain
+DDP,Distributed Data Processing,D. ram Data Path
+DDR,Double Data Rate memory
+DDS,Dataphone Digital Service,Direct Digital Synthesis
+DDT,Device Drive Task
+DEAP,Design Engineering Apprenticeship Program
+DEB,Data Extent Block
+DEC,Digital Equipment Corporation
+DECAP,Delete or remove Cap of the package for on chip probing
+DECNET,DEC Networking Software
+DEF,Design For Testability
+DEFI,Digital Electronic Fuel Injection
+DEL,Delete Character
+DELTA,Direct Entry Loading and Tracking Aid
+DEMVAL,Demonstration and Validation
+DEMA,Data Entry Management Associated
+DES,Data Entry System
+DEVO,Data Entry Validation Option
+DEX,Direct Exempt
+DF,Direction Finding
+DFA,Digital Fault Analysis
+DFAB,Dallas Wafer Fab
+DFACS,Distributed Factory Automated Control System
+DFCA,Digital or Dallas Flip Chip Assembly
+DFCS,Distributed Factory Control System
+DFD,Data Flow Diagram
+DFE,Designing for the Environment
+DFHSM,IBM Data Facility System Managed Storage
+DFI,Duty Freight and Insurance
+DFM,Directory or File Manager,Design for Manufacturing
+DFS,Digital Field System
+DFSMS,IBM Data Facility System Managed Storage
+DFT,Design For Testability,Discrete Fourier Transform
+DGN,Mexican National Standards Body
+DHC,Dallas Heater Chip
+DI,Digital Imaging,Data Item,Degree of Influence,Dielectric Isolation
+DIWATER,De-ionized Water
+DIA,Diagnostic
+DIB,Device Information Block
+DIF,Device Input Format
+DIFMOS,Double Injector Floating Gate MOS
+DIME,Digital Map Editor
+DIMM,Dual In-Line Memory Module
+DIMODE,Discontinuity Modulation Effect
+DIN,Design in
+DIP,Device Interface Processor,Dual In Line Package
+DIPR,Device Interface Processor
+DIRTFT,Do It Right The First Time
+DIS,Distributed Information System,Distributed Inventory System
+DISA,Direct Inward Switch Asset
+DISC,Digital Imaging Systems Center,Domestic International Sales Corporation
+DISSPLA,Display Integrated Software System and Plotting Language
+DIV,Division
+DIVP,Digital Imaging Venture Project
+DIX,Design In excellence
+DKE,German National Electrical Standards Body
+DKUA,Design Kit Users Agreement
+DL,Direct Labor
+DLI,Data Language one
+DL1,Data Language one
+DLA,Date Last Active
+DLC,Data Link Control
+DLCC,Data Link Control Chip
+DLE,Data Link Escape
+DLG,Dialog Flow Diagram
+DLL,Dynamic Link Libraries
+DLM,Developmental Learning Materials,Double Level Metal
+DLP,Digital Light Processing
+DLVA,Detector Log Video Amplifier
+DM,Direct Material,District Manager,Demand Manager
+DM6,D. mos 6 Fabrication Site
+DMA,Direct Memory Access
+DMAC,Direct Memory Access Channel,Direct Memory Access Controller
+DMASS,Distributors and Manufacturers Association of Semiconductor Specialists
+DMACSS,Distributed Marketing and Customer Service System
+DMAIC,Define Measure Analyze Improve and Control
+DMAT,Digital Mirror Assembly and Test
+DMBP,Data Management Block Pool
+DMC,Digital Motor and Motion Control
+DMCL,Device Media Control Language
+DMD,Deformable Mirror Display,Digital Micro Mirror Device
+DME,Distance Measuring Equipment
+DML,Data Manipulation Language
+DMM,Digital Multimeter
+DMOS,Double Diffused Metal Oxide Semiconductor,Diffused Metal On Silicone,Dallas Metal Oxide Semiconductors
+DMR,Defective Material Report
+DMS,Degrees Minutes Seconds,Development Management System,Discrete Manufacturing Systems,Display Management System,Dynamic Mapping System
+DMT,Discrete Multi tone
+DMTS,Distinguished Member of Technical Staff
+DMUX,De-multiplexer
+DMZ,Demilitarized zone between internet and intra-net
+DN,Delivery Note
+DNC,Direct Numerical Control
+Distributed Numerical Control
+DNCS,Distributed Network Communications System
+DNEX,Direct Nonexempt
+DNF,Did Not Finish,Does Not Function
+DNOS,Distributed Network Operating System
+DNV,Det Norske Veritas
+DO,Design Order
+DODE,Diagnostic Optical Demonstration Equipment
+DOE,Department of Energy,Design of Experiments
+DOF,Device Output Format
+DOG,Disaster Organization Group
+DOI,Departmental Operating Instructions
+DOIE,Division Other Income Expense
+DOP,Data Out Port
+DOR,Directory Overhead Record
+DOS,Disk Operating System
+DOT,Defect Oriented Testing
+DOW,Day Of Week
+DP,Data Processing,Dynamic Programming,Demand Planner
+DPA,Destructive Physical Analysis,Department Purpose Analysis
+DPD,Disk Dpt Extension Data
+DPDT,Double pole Double throw
+DPM,Development and Performance Management
+DPM+,Distributed Program Management Plus
+DPMA,Data Processing Management Association
+DPOF,Digital Print Order Format
+DPP,Driver Parallel Processor
+DPPM,Defective Parts Per Million
+DPS,Differential Pressure Switch,Distributed Processing System,Distributed Processing Services
+DPSE,Device Parameter Shift Evaluation
+DPSK,Differential Phase Shift Keyed
+DPSS,Distributed Processing Systems Support
+DPU,Digital Processing Unit
+DPW,Die Per Wafer
+DR,Debit,Design Rules
+DRAM,Dynamic Ram
+DRC,Design Rules Check
+DRL,Data Retention Length
+DRP,Disaster Recovery Plan,Digital Radio Processor
+DRS,Device Release Sheet
+DRT,Device Release Tool
+DRTL,Dallas Reliability Test Lab
+DS,Differential Pressure Switch,Distributed Processing System,Distributed Processing Services
+DSA,Digital Signal Analyzer
+DSAT,Digital Supervisory Audio Tone
+DSB,Double Sideband
+DSBU,Display Solutions Business Unit
+DSC,Data Stream Compatibility,Data String Control,Digital Scan Converter
+DSCB,Data Set Control Block
+DSCG,Digital Scan Converter Group
+DSD,Data Structure Diagram
+DSE,Distributed Systems Engineering
+DSEG,Defense Systems and Electronics Group
+DSHP,Direct Shipment
+DSK,DSP Starter Kit
+DSL,Digital Subscriber Loop
+DSLAM,Digital Subscriber Line Access muliplexers
+DSM,Data Submodel
+DSN,Data Set Name
+DSNSPEC,Design Specification
+DSP,Digital Signal Processor,Digital Signal Processing
+DSPS,Digital Signal Processing Solution
+DSR,Data Set Ready,Device Service Routine,Digital Standard Runoff,Distributor Sales Representative
+DSS,Data Storage Subsystem,Decision Support Systems,Digital Satellite System
+DST,Digital Signaling Tone,Distributor Steering Team
+DSUA,Design Software Users Agreement
+DSVD,Digital Simultaneous Voice Data
+DT,Date and Time
+DTAD,Digital Telephone Answering Device
+DTAM,Distributor Total Available Market
+DTC,Design To Cost
+DTE,Data Terminal Equipment
+DTF,Dallas Test Floor
+DTI,Department of Trade and Industry
+DTL,Diode Transistor Logic
+DTM,Delay Timer Multiplier
+DTMF,Dual Tone Multiple Frequency
+DTR,Data Terminal Ready,Data Transfer Rate,Dedicated Token Ring,Detail Transaction Register
+DTUPC,Design To Unit Production Cost
+DTV,Drivers Terminal Viewer
+DUT,Device Under Test
+DVB,Drivers Terminal Viewer
+DVD,Digital Versatile Disk
+DVI,Digital Visual Interface
+DVT,Design Verification and Test
+DVTKT,Design Validation tool kit
+DWD,Daily Wafer Demand
+DWIN,Design WIN
+DXS,Data Exchange System

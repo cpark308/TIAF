@@ -1,0 +1,242 @@
+M,Mega (Million)
+M&C,Materials and Controls Group
+MS,Mail Station
+M16,Memory Tester which is a 16-pin Dynamic Ram
+MA,Milliamperes,Mixer Amp
+MAC,Move Add Change,Maximum Allowable Concentration,Medium Access Control,Media Access Control,Manufacturing Area Controller,Manufacturing Automation Center,Multiply-Accumulate Cycle
+MACMOS,Macro Simulation For MOS Circuits
+MACS,Multiple Accumulate Operations
+MAD,Magnetic Anomaly Detection
+MADAIR,Magnetic Anomaly Detection And Identification
+MAFEE,Metro Alliance For Engineering Education
+MAGCARD,Magnetic Card
+MAID,Methods Assembly Instruction Development
+MAJ,Major
+MAM,MOS Attach Machine
+MANA,Major And National Account
+MANTECH,Manufacturing Technology
+MAP,Monthly Asset Payment
+MAPA,Materials And Product Assurance
+MAPI,Message Application Programming Interface,Manufacturers Alliance for Product Improvements
+MAR,Memory Address Register
+MARCSTAR,Multichannel Advanced Remote Control Serial Data Transmitter and Receiver
+MARGEN,Mask And Record Generator
+MARS,Machine-Activated Recovery System,Machine Activated Control System
+MAS,Manufacturing Automation and Support,Mission Area Summaries
+MB,Malcolm Baldrige
+Megabyte,Memory Buffer
+MBA,Management Business Analyst,Mass Bus Adaptor,Master Business Administration,Malcolm Baldrige Award
+MBD,Magnetic Bubble Device
+MBE,Molecular Beam Epitaxy
+MBM,Magnetic Bubble Memory
+MBNQA,Malcolm Baldrige National Quality Award
+MBO,Management By Objectives
+MBPC,Model Based Process Control
+MBPS,Megabits Per Second
+MBUS,Memory Bus
+MBWA,Management By Walking Around
+MC,Manufacturing Center,Material Control,Micro-Controller
+MCAS,Master Component Analysis System
+MCB,Microwave Circuit Board
+MCBF,Microwave Component Business Function
+MCC,Machine Control Computer,Multiple Chip Carrier
+MCD,Manufacturing Capability Development
+MCI,Media Control Inte
+MCM,Multichip Modules
+MCMM,Multi-Chip Memory Module
+MCR,Master Control Relay,Monitor Console Routine
+MCS,Mainframe Computing Systems,Material Control System,Master Control Station,Medical Computer Services,Multiple Console Support,Mobile Connectivity Solutions
+MCU,Micro Control Unit,Micro-controllers
+MCV,Modular Chemical Vessel
+MD,Medical Department
+MDA,Mechanical Design Automation
+MDBU,Motor Driver Business Unit
+MDC,More Developed Countries
+MDD,Medium Dose Drain
+MDF,Main Distribution Facility
+MDR,Memory Data Register
+MDP,Mobile Devices Power
+MDS,Management Decision System,Microprocessor-Development System,Module Development System,Mission Distribution Systems
+MDSW,Multiple DXS Switch
+MDU,Multiple Dwelling Unit
+ME,Motion Estimation
+MEBES,Manufacturing Electron-Beam Exposure System
+MEC,Monolithic Elastic Convolver
+MEICO,Material Effectiveness Inter-Company Objective
+MELP,Mixed Excitation Linear Prediction
+MEMS,Micro electro mechanical Systems
+MENS,Mission Element Needs Statement
+MEPL,Master Engineering Parts Library,Master Engineering Parts List
+MEPLMSEL,MEPL Selection Program For MSDOS PC
+MEPLPAC,Master Engineering Parts Library Parts Approval Committee
+MERFEI,Manufacturing Equipment-Related Facilities and Equipment Installation
+MES,Manufacturing Execution System
+MESFET,Metal Semiconductor Field Effect Transistor
+MET,Management Engineering Team
+METS,Modular Engineering Test System
+MEU,Memory Expansion Unit
+MF,Mainframe,Medium Frequency
+MFAB,Maine Fab
+MFBS,McKinney Functional Board Shop
+MFDB,Manufacturing Data Base
+MFF,Multi-Factory Flow
+MFG,Manufacturing
+MFLOP,Million Floating-Point Operations Per Second
+MFM,Modified Frequency Modulation
+MFS,Message Format Service
+MFT,Multiprogramming with a Fixed Number of Tasks
+MGCP,Media Gateway Control Protocol
+MGL,Matrix Generator Language
+MGP,Microwave Gallium Arsenide Products
+MGTS,Member Group Technical Staff
+MH,Man Hours
+MHD,Magnetohydrodynamics
+MHL,Microprocessor Host Loader
+MHR,Medical High Reliability
+MHz,Megahertz
+MIB,Management Information Base
+MIC,Microwave Integrated Circuit
+MICR,Magnetic Ink Character Recognition
+MICRAD,Microwave Radiometric
+MID,Message Input Descriptor
+MIDAS,MAS Information Distribution Access System,Machine Information and Data Acquisition System
+MIDI,Musical Instrument Digital Interface
+MIG,Micro Interconnection Generator
+MIM,Metal-Insulator-Metal
+MIMIC,Microwave or Millimeter Wave Monolithic Integrated Circuit
+MIMU,Miniaturization Inertial Measurement Unit
+MIN,Minor
+MIP,Mixed-Integer Programming,Multi-Year Integrated Investment Plan
+MIPS,MIPS Technologies Incorporated,Million Instructions Per Second,Microprocessor Without Interlocked Pipe Stages
+MIR,Method Improvement Report
+MIRS,Management Information Retrieval System,Multipurpose IR System
+MIS,Management Information System,Metal Insulator Silicon
+MIS,Mobile Integrated Solutions
+MISTI,Message Interface to SMTP for TI
+MISYS,Microprocessor Controlled Frequency Synthesizer
+MIT,Massachusetts Institute Of Technology
+MITI,Ministry Of International Trade and Industry,Ministry of International Trade And Industry
+MIVOS,Microprocessor Controlled Voltage Synthesizer
+MJQ,MultiPack JIT Pack Quantity
+MKIF,Modify Key-Indexed File
+MKT,Marketing
+MKTG,Marketing
+ML,Micro Laser
+MLA,Microprocessor Language Assembler
+MLB,Multilayer Board
+MLE,Microprocessor Language Editor
+MLO,Material Labor and Overhead which are in terms of Inventoriable Cost or Full Cost
+MLP,Micro language Processor
+MLV,Memory Loader Verifier
+MM,Man Months,Memory Management,Millimeter
+Month,Memory Macro,Mega Module
+MM,Multimedia
+MMAS,Material Management Accounting System
+MMC,Maximum Material Condition,Material Management Center
+MMFS,Manufacturing Message Format Standard
+MMIC,Monolithic Microwave Integrated Circuit
+MML,Multimachine Link
+MMO,Material Move Order
+MMP,Memory Microprocessor,Microprocessor And Microcontroller Products
+MMPM2,Multimedia Presentation Manager 2
+MMR,Memory Mapped Register
+MMRS,Material Master Release System
+MMS,Manufacturing Message Service,Micro Monitoring Station
+MMST,Microelectronics Manufacturing Science and Technology
+MMT,Manufactured Material Transfer
+MMU,Memory Management Unit
+MMW,Millimeter Wave
+MNCS,Multipoint Network Control System
+MNOS,Metal-Nitride-Oxide Semiconductor
+MO,Manual Output,Manufacturing Order,Master Oscillator
+MOC,Microwave Oven Control
+MOD,Message Output Descriptor
+MODEM,Modulator and Demodulator
+MODPLAN,Model Planning
+MOI,Moment of Inertia
+MOM,Message-Oriented Middleware,Metal-on-Metal
+MOQ,Minimum Order Quantity
+MOS,Metal Oxide Semiconductors
+MOSFET,MOS Field Effect Transistor
+MOU,Memorandum Of Understanding
+MP,Multiprobe,Microprocessor,Mixed Projection,Mod plan,Multiprocessor
+MP3,MPEG Audio Layer 3
+MPC,Multiprocess Communications
+MPCC,Microprocessor Common Control
+MPEG,Motion Picture Experts Group
+MPEG4,Next generation MPEG
+MPIF,Multiprocessor Interface
+MPLM,Multipurpose Lightweight Missile
+MPN,Manual Planning Reduction
+MPO,Manufacturer's Point Of Origin
+MPP,Message Processing Program,Microprocessor Pascal
+MPQ,Multiple package quantities
+MPS,Megabytes Per Second,Meters Per Second,Microelectronic Packaging System,Mobile Protective Shelters,Monthly Production Statistics
+MPSS,Master Production Scheduling System
+MPU,Memory Protection Unit,Microprocessor Unit
+MPY,Multiprobe Yield
+MQ,Manufacturability Qualification
+MQS,Manufacturing Quality System
+MR,Maintenance Request,Medium Range,Memory Read,Magneto-resistive Technology
+MRA,Material Review Action
+MRB,Master Read Master Write Buffer,Material Review Board
+MRC,Manufacturing Rules Checker
+MRCC,Multibus Remote Channel Controller
+MRI,Magnetic Resonance Imaging
+MRP,Manufacturing Resource Planning,Material Requirements Planning
+MRPS,Material Requirements Planning System
+MRS,Material Requirements Schedule
+MRT,Minimum Resolvable Temperature
+MS,Millisecond,Moisture Sensitivity
+MS,Mail Station,Manufacturing Specialist
+MSA,Mixed Signal Automotive
+MSC,Mixed-signal controllers,Mass Storage Control,Multiple System Coupling
+MSCB,Management Systems Committee of the Board
+MSD,Metal Systems Department,Modem-Sharing Device,Most Significant Digit
+MSDS,Mixed Signal DSP Solutions,Material Safety Data Sheet
+MSEL,MEPL Part Selection
+MSF,Mass Storage Facility,Manufacturing Specification File
+MSG,Message,Micro-fuse Strain Gauge
+MSI,Medium-Scale Integration
+MSL,Materials Science Laboratory,Moisture Sensitivity Level,Motion Simulation Laboratory
+MSLP,Mixed Signal and Logic Products
+MSN,Manufacturing Sequence Number
+MSNF,Multi-System Network Facility
+MSP,Mixed Signal Processor,Mixed Signal Products
+MSPC,Mixed Signal Power and Control
+MSPS,Megasamples-per-second,Million samples per second
+MSQ,Minimum Selling Quantity
+MSR,Memory Send Receive
+MSRL,Materials Science Research Laboratory
+MSS,Manufacturing Services and Support,Mass Storage System
+MSTACK,Migration Stack
+MSTD,Mixed Signal Technology Development
+MSU,Measurable System Unit
+MT,Magnetic Tape,Material Transfer
+MTAG,Manufacturing Technology Advisory Group
+MTBA,Mean Time Between Assistance
+MTBE,Mean Time Between Events
+MTBF,Mean Time Between Failures
+MTBJ,Mean Time Between Jams
+MTC,Manufacturing Technology Center
+MTD,Mass Tape Duplicator or Verifier,Month To Date
+MTF,Modulation Transfer Function
+MTL,Merged Transistor Logic,Man In The Loop
+MTM,Methods Time Measurement
+MTN,Move Trace Number
+MTS,Member, Technical Staff,Message Telephone Service
+MTT,Magnetic Tape Transport
+MTTA,Mean Time To Assist
+MTTF,Mean-Time-To-Failure
+MTTR,Mean-Time-To-Repair
+MULTIAMPL,Multiple User-Advanced Microprocessor Prototyping Lab
+MUX,Multiplexor
+MVF,Minimum Versions File
+MVP,Micro Vector Processor
+MVS,Multiple Virtual Storage
+MVSSE,Multiple Virtual Storage Systems Extension
+MVT,Multiprogramming With Variable Number Of Tasks
+MW,Memory Write,Megawatt
+MWBD,Minority or Women Business Development
+MXP,Metallic Switch Crosspoint
+MXT,Manufacturing Excellence Team

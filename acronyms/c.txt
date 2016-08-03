@@ -1,0 +1,297 @@
+CDIP,Ceramic Dual In line Package
+CLABCharacterization Lab
+CPACK,Ceramic Flat Pack Package
+CSD,Counterdoped-Source/Drain
+CLIP,Central Lot Information Portal
+CPM,Certified Purchasing Manager
+CI,Converter Interpreter
+CN,Carrier To Noise ratio
+CS,Client Server
+C1ST,Customer First Support Team
+C5000,DSP family
+CA,Communications Adapter,Cost Adjustment
+CAD,Computer Aided Design
+CAP,Computer Aided Programming
+CADE,Corrective Action Development
+CADF,Cathode Ray Tube Automatic Direction Finding
+CAE,Computer Aided Education,Computer Aided Engineering
+CAEDS,Computer Aided Engineering Design Systems
+CAGE,Calcium Germanium Garnet
+CAGR,Compound Annual Growth Rate
+CALCE,Computer Aided Life Cycle Engineering
+CALS,Computer Aided Acquisition Logistic Support
+CAM,Certified Administrative Manager,Common Aperture Multimode,Computer Aided Manufacture,Content Addressable Memory,Corporate Account Manager,Customer Automotive Microcomputer
+CAMAC,Computer Automated Measurement and Control
+CAMS,Computer Aided Manufacturing System,Commercial Application Management System
+CANENA,NAFTA Regional Standards Body
+CAOM,Cost Accounting Operating Memorandum
+CAP,Correction Action Plan
+CAPS,Components Advanced Planning System,Corporate Accounts Payable System
+CAPTAIN,Channel Programming Techniques to Administer Information Networks
+CAR,Computer Assisted Retrieval
+CARC,Chemical Agent Resistant Coating
+CARE,Corrective Action Review,Customer Account Reporting and Expediting,Customer Action Response Excellence
+CARMA,Computer Aided Reliability and Maintainability Applications
+CART,Central Automatic Reliablity Tester
+CAS,Capacitive Acceleration Sensors,Column Address Select,Component Analysis System,Column Address Strobe
+CASE,Common Application Service Elements,Computer Aided Software Engineering
+CAT,Centralized Automatic Tester,Computer Automated Test,Computerized Axial Tomography,Computer Aided Tomography,Corrective Action Team
+CATS,Capital Authorization Tracking System
+CATT,Controlled Avalanche Transmit Time
+CATV,Community Antenna Television,Cable Television
+CAU,Customer Activity Unit
+CAW,Channel Address Word
+CBA,Common Bus Architecture,Cost/Benefit Analysis
+CBC,Complementary Bipolar CMOS,Cable Broadband Communications
+CBD,Component Based Development
+CBI,Computer Based Instruction
+CBIC,Complementary Bipolar Integrated Circuit
+CBL,Calculator Based Laboratory TM
+CBMS,Computer Based Message Systems
+CBO,Consumer Business Objective
+CBR,Chemical Biological Radiation,Constant Bit Rate,Calculator Based Ranger TM
+CBRS,Customer build request sheet
+CBT,Computer Based Training,Cross Bar Technology
+CC,Cost Center
+CCA,Contract Cost Allocation,Camera Capture Assist
+CCB,Channel Control Block,Command Control Block,Communications Carrier Board,Configuration Control Board,Control Changes BOM
+CCC,Computer Command Control
+C3,Computer Command Control
+CCD,Charge Coupled Device
+CCG,Capacity Consolidation Group
+CCI,Counter Carry In
+CCIR,Comite Consultatif International Des Radiocommunications or International Radio Consultative Committee
+CCIS,Common Channel Inter switch Signaling
+CCITT,Consultative Committee of International Telephone and Telegraph
+CCK,Complementary Code Keying
+CCM,Customer Contact Mart
+CCN,Cluster Controller Node
+CCP,Certified Composer Professional,Character Controlled protocol,Character Count Protocol,Compliance Control Program
+CCROM,Compressed Control ROM
+CCS,Central Control System,Control Computing System,Code Composer Studio
+CCSC,Coordinating Committee On Satellite Communications
+CCSS,Cellular   Connectivity Systems Solution
+CCT,Common Carrier Trunk
+CCTV,Closed Circuit Television
+CCU,Central Control Unit
+CCVD,Continuous Chemical Vapor Deposition
+CCW,Customer Contact Warehouse
+CD,Committed Date,Control Department,Customer Commit Date,Customer Disruption
+CDC,Clock Distribution Circuits,Capacity Data Collection
+CDCS,Competitive Data Collection System
+CDD,Circuits Design and Development,Common Data Dictionary
+CDDI,Copper Distributed Data Interface
+CDDS,Collaborative Design and Delivery System
+CDI,Collector Diffusion Isolation
+CDK,Cadence Development Kit
+CDM,Central Data Management
+CDMA,Code Division Multiple Access
+CDP,Certificate In Data Processing
+CDPA,Certified Data Processing Auditor
+CDR,Channel Descriptor Record,Critical Design Review
+CDRM,Cross Domain Resource Manager
+CDRSC,Cross Domain Resource
+CDS,Control Data Set,Correlated Double Sampling
+CDSP,Customized DSP
+CDT,Command Definition Table,Compact Development Tool
+CE,Central Europe,Concise English,Concurrent Engineering,Corporate Entity,Customer Engineer
+CEBO,Consumer Electronics Business Objective
+CEBUS,Consumer Electronics Bus
+CECOM,Communication Electronic Command
+CEDAC,Cause and Effect Diagram with Addition of Cards
+CEDS,Concurrent Engineering Data Structure
+CELDP,Computerized Electronic Logic Design Processor
+CEN,European Regional Standards Body for Electro technical Standardization
+CENELEC,European Regional Electrical Standards Body for Electro technical Standardization
+CEO,Chief Executive Officer,Commercial Equipment Objective
+CEP,Circular Error Probability
+CER,Currency Exchange Rate
+CERDIP,Ceramic Dual In line Package
+CERPAK,Ceramic Package
+CES,Capital Expenditures System,Consumer Electronics Show
+CET,Central Europe Time
+CETRAQ,Cost Environmental Technical ability Responsiveness Assurance of supply and Quality
+CF,Common Format
+CFB,Current Feedback
+CFCC,Clean room Facilities Contamination Control
+CFE,Customer Furnished Equipment
+CFI,Central Fuel Injection,CAD Framework Initiative
+CFM,Customer Furnished Material
+CFO,Chief Financial Officer
+CFR,Code of Federal Regulations
+CFS,Computer Field System
+CFS2,Computer Field System two
+CGA,Color Graphics Adapter
+CGI,Computer Generated Image
+CHD,Central Help Desk
+CHM,Channel Management
+CIB,Contact Interface Board
+CICS,Customer Information Control System
+CID,Charge Imaging Device,Charge Injection Device
+CIF,Central Information Files
+CIL,Command Initialization List
+CIM,Charge Imaging Matrix,Communications Interface Module,Computer Input Micro film,Computer Integrated Manufacturing,Corporate Information Management
+CIMS,Computer Integrated Manufacturing System
+CIO,Chief Information Officer
+CIOCS,Communications Input Output Control System
+CIP,Confidential Information Protection
+CIPREC,Conversational and Interactive Project Evaluation and Control
+CIR,Channel independent reporting,Channel Inventory Reconciliation
+CISC,Complex Instruction Set Computer
+CISI,Configuration Information Status Index
+CIT,Component Implementation Tool set
+CITR,Communication Interface Transmitter Receiver
+CK,Clock
+CLAM,Cost Less All Materials
+CLC,Cost Less Chip
+CLCS,Current Logic, Current Switching
+CLE,Command Language Editor
+CLI,Command Language Interpreter
+CLM,Compact LISP Machine,Cost Less Material
+CM,Central Memory,Configuration Management,Credit Memo
+CMA,Credit Memo Authorization
+CMAP,Continuity MAP
+CMAR,Change Management Action Request
+CMCB,Calling Module Control Block
+CMF,Custom Micro function
+CMI,Computer Managed Instruction
+CML,Current Mode Logic
+CMM,Capability Maturity Model
+CMOS,Complementary Metal Oxide Semiconductor
+CMP,Control Management Program,Chemical Mechanical Polishing
+CMR,Common Mode Rejection
+CMRR,Common Mode Rejection Ratio
+CMS,Custom Mixed Signal
+CMSS,Cellular Media Systems Solutions
+CMTS,Cable Modem Termination System
+CMU,Central Memory Unit
+CMV,Common Mode Voltage
+CNC,Computer Numerical Control
+CNG,Compressed Natural Gas
+CNY,Chinese New Year
+CO,Central Office
+COA,Corporate Option Agreement
+COA,Copper over Anything
+COAM,Customer Owned and Maintained
+COATS,Computer Operator Advising and Training
+COB,Close Of Business,Cost Of Billings
+COBM,Cost of Billings Margin
+COBOL,Common Business-Oriented Language
+COBRA,Consolidated Omnibus Budget Reconciliation Act
+COCOMO,Constructive Cost Model
+CODA,Cash Or Deferred Arrangement
+CODAC,Characterization and Optimization system for Digital and Analog Circuits
+CODASYL,Conference On Data Systems Languages
+CODEC,Code Decode
+COE,Chief Operating Executive,Center of Excellence,Controlled Order Entry
+COF,Chip on Film
+COG,Chip on Glass
+COGS,Cost of Goods Sold
+COIE,Corporate Other Income and Expense
+COM,Computer Output Micro film
+COMSAT,Communication Satellite
+COMVID,Composite Video
+COO,Cost of Ownership,Chief Operating Officer
+COP,Character Oriented Protocol,Chip Operating Plan
+COPANT,South America Regional Standards Body
+COPICS,Communications Oriented Production Information and Control System
+COQ,Cost Of Quality
+CORMES,Communication Oriented Message System
+CORMS,Components Organization Reporting Matrix
+CORP,Corporate,Corporation
+COS,Cost of Sales,Central Office Switch
+COT,Customer Owned Tooling
+COTS,Commercial Off The Shelf
+COWPS,Council On Wage and Price Stability
+CP,Capability Index,Clock Pulse,Control Processor,Corporate Projects,Cost Point
+CPAF,Cost Plus Award Fee
+CPB,Channel Program Block
+CPCI,Compact Peripheral Component Interconnects
+CPD,Computerized Publication Display,Cinema and Professional Display
+CPE,Computer Performance Evaluation,Customer Premise Equipment
+CPFF,Cost Plus Fixed Fee,CPG Consumer Product Group
+CPGA,Ceramic Pin Grid Array
+CPI,Characters Per Inch,Chemical Process Industry,Consumer Price Index
+CPIF,Cost Plus Incentive Fee
+CPM,Customer program manager
+CPIM,Certified Production Inventory Manager
+CPK,Capability Index Centering
+CPM,Critical Path Method
+CPN,Custumer Part Number
+CPP,Component Provisioning Process
+CPS,Certified Professional Secretary,Characters Per Second
+CPT,Category Procurement Team
+CPU,Central Processing Unit
+CPW,Chips per Wafer
+CQE,Customer Quality Engineer
+CQRA,Customer Quality and Reliability Assurance
+CQS,Computer Quality System
+CR,Cost Recovery
+CRA,Cross Regional Assignment
+CRB,Change Review Board
+CRC,Customer Response Center,Cyclic Redundancy Check
+CRCT,Clean Room Consumables Team
+CRD,Customer Request Date,Customer Requested Delivery Date
+CRF,Change Request Form
+CRI,Criterion-Referenced Instruction
+CRJE,Conversational Remote Job Entry
+CRL,Central Research Laboratories,Control Relay
+CRM,Customer Returned Material,Master Control Relay,Customer Relationship Marketing,Customer Relationship Management
+CRO,Cathode Ray Oscilloscope,Clean Room Out
+CROM,Constant ROM and Solid State Software,Control Read-Only Memory
+CRP,Capacity Requirements Planning
+CRPM,Cost Reduction Projects Monitoring
+CRSD,Customer Required Ship Date
+CRT,Cost Recovery Tool
+CRU,Communications Register Unit
+CS,Cesium,Component Side,Compressed Speech,Computer Science,Computer Society,Contract Services,Control Section,Customer Satisfaction,Customer Service
+CS2,Cost or Schedule Control System
+CSA,Canadian Standards Association
+CSB,Cost Of Sales Billed
+CSC,Computer Software Components,Customer Service Center
+CSCS,Cost or Scheduling Control System
+CSD,Customer Ship Date
+CSF,Critical Success Factor
+CSG,Citrix Secure Gateway
+CSI,Corporate Systems Interface
+CSL,Computer Science Laboratory
+CSLC,Client Services Life Cycle Program
+CSMACD,Carrier Sensing Multiple Access with Collision Detect
+CSMP,Continuous System Molding Program
+CSOA,Commutating Safe Operating Area
+CSR,Corporate Social Responsibility
+CSS,Customer Support Specialist
+CST,Central Standard Time
+CSW,Channel Status Word
+CT,Cycle Time,Computed Tomography,Cost Transfer
+CTA,Curve trace analysis
+CTAM,Cryogenics Test and Maintenance Station
+CTD,Charge Transfer Device
+CTE,Charge Transfer Efficiency,Coefficient Thermal Expansion,Component Test Engineering
+CTF,Component Test Facility
+CTL,CCD Technology Lab
+CTOR,Contact Oxide Removal
+CTP,Capable to Promise
+CTR,Counter Function of Process Controller
+CTS,Clear To Send,Consumer Testing System,Clock tree synthesis
+CTV,Cable Television
+CTWS,Cycle Time Work Station
+CU,Control Unit
+CUA,Common User Access
+CUP,Central Utilities Plant
+CUT,Circuit Unit Test
+CV,Computer Vision
+CVCADD,Computer Vision Sun CADD Station
+CVCC,Constant Voltage and Constant Current
+CVC,Charge pump Validity Check
+CVD,Chemical Vapor Deposition
+CVP,Corporate Venture Project
+CVSD,Continuously Variable Slope Delta Modulation
+CVT,Communications Vector Table,Constant Voltage Transformer
+CW,Clockwise,Continuous Wave,Control Word
+CWATY,Cost Weighted Assembly Test Yield
+CWO,Capital Work Order
+CWOS,Computerized Work Order System
+CWP,Communicating Word Processor
+CWPS,Council on Wage and Price Stability
+CWQC,Company Wide Quality Control

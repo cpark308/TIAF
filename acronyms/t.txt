@@ -1,0 +1,251 @@
+T,TIOLR System
+T&E,Travel and Entertainment
+T&OE,Training and Organization Effectiveness
+TSWITCH,Time-division Switch
+TR,Transmit Receive
+T1,Accredited Standards Committee for Telecommunications,A data transmission carrier
+T2C,Time to Contribution
+T2L,Transistor-Transistor Logic
+T3,Teachers Teaching with Technology
+TA,Technical Architecture,Travel Authorization
+TAB,Tape-Automated Bonding
+TABS,Terminal Automated Broadcasting System
+TAC,Tape-Assembled Components
+TACS,Total Access Communications Systems
+TACT,Transistor And Component Tester
+TAD,Technical Area Description
+TAG,Technical Activities Group,Terminal Application Generator,Transparent Automotive Guardian
+TAGER,The Association For Graduate Education and Research
+TAM,Texas Association of Manufacturers,Total Available Market,Time Allocation Metrics
+TAP,Tactical Action Program,Test Access Port
+TARPS,Transportation Audit Reporting and Payment System
+TAT,Transitional Automated Ticket
+TB,Terminal Board,Time Base
+TBA,To Be Added,To Be Announced
+TBC,Test Bus Controller
+TBD,To Be Determined
+TBI,Throttle Body Injection
+TBM,Time Based Maintenance
+TBMT,Transmitter Buffer Empty
+TC,Temperature Cycle
+TCA,Terminal Communications Area,Total Cost Allowed,Transfer Cost Adjustment
+TCAM,Telecommunications Access Method,Timer or Counter Access Module
+TCB,Task Control Block
+TCC,Technical Communications Committee
+TCE,Thermal Coefficient of Expansion
+TCESOP,Tax Credit Employee Stock Option Plan
+TCIS,Transmission Controls and Inertial Sensors
+TCL,Telecommunication and Custom Linear,Tool Command Language
+TCM,Thermal Conduction Module,TIWAY Communication Module,Tightly Coupled Memory
+TCP,Transmission Control Protocol
+TCS,Table Control System
+TCU,Timing Control Unit
+TD,Derivative Time Input to PID Equation,Transmitted Data,Tunnel Diode
+TDA,Temperature Datum Amplifier
+TDAN,Time-Division Analog Networks
+TDC,TI Digital Communication
+TDDN,Time-Division Digital Networks
+TDF,Transaction Data Flow
+TDI,Time Delay and Integration
+TDL,Test-Description Language,Time Delay List
+TDM,Test Data Management,Time-Division Multiplexing
+TDMA,Time-Division Multiple Access
+TDMADA,Time-Division Multiple Access Demand Assignment
+TDR,Time Delay Relay,Time Domain Reflectometry
+TDS,Time-Division Switching
+TDT,Transaction Data Transfer
+TDU,Transportable Design Utility
+TE,Test Equipment,Transverse Electric
+TEAMS,Test Equipment And Monitoring System
+TEB,Test Engineering Board,Test and Evaluation Board
+TEC,Test Equipment Control,Tokyo Electric Company
+TECHREF,Technical Reference
+TECN,Temporary Engineering Change Notice
+TED,Transferred Electron Device
+TEDD,Technical Employee Development Discussion
+TEDS,Training Education and Development System
+TEFRA,Tax Equity and Fiscal Responsibility Act of 1982
+TEGAS,Test Generator And Simulation
+TEHO,Tail End Hop Off
+TELEX,Teleprinter Exchange Service
+TEM,Transmission Electron Microscopy
+TEMS,Training and Education Management System
+TENCAP,Tactical Exploitation of National Capabilities
+TEPA,Texas Employment Practices Act
+TEREC,Tactical Electronic Receiver
+TES,Trench etch-stop
+TET,Total Elapsed Time
+TEX,Teleprinter Exchange Service
+TFA,Tank Farm Automation
+TFAB,Tucson Wafer Fab
+TFFPC,Transfer File From Professional Computer
+TFN,Thin Film Network
+TFT,Thin Film Transistor
+TFTPC,Transfer File To Professional Computer
+THC,Thermal Converter
+THCT,Theoretical Cycle Time
+TI,Reset Time Input To PID Equation,Texas Instruments Incorporated
+TIBEST,TI Business Excellence Standard
+TISCORE,TI System for Computerized Olympics Results and Events
+TITAC,TI Tape Assembled Components
+TIA,Telecommunication Industries,Association,TI Asia Limited,TI Attleboro
+TIB,Target Interface Board
+TIBA,name for SAN infrastructure
+TIBOL,TI Bubble Operating Language
+TIBSD,TI Board System Design
+TIC,Technical Information Committee,Tester Interface Controller
+TICOG,TI Communications Grid
+TICOMS,TI Corporate Office Management System
+TID,Terminal ID,TI Deutschland GMBH in Germany
+TIDAL,Transportable Integrated Design Automation Language
+TIDAR,TI Digital Analog Recorded
+TIDLC,TI Data Link Control
+TIDN,TI Distributed Network,TI Diversity Network
+TIE,TI Europe Limited,Technology Integration Experiment
+TIEC,TI Engineering Council
+TIEJ,TI Engineering Journal
+TIEM,TI Electronic Marketing
+TIEP,TI Electronica in Portugal
+TIES,Transmission and Information Exchange System
+TIESYS,TI Environmental Systems
+TIF,Terminal Interface,TI France
+TIFMP,TI Function Management Protocol
+TIFR,TI Financial Reporting
+TIH,TI Holland
+TII,TI Italia,TI India
+TIIDS,TTI Intracompany Distribution System
+TIIES,TI Information Exchange Systems
+TIJ,TI Japan Limited
+TIK,TI Korea Limited
+TIKAM,TI Keyed Access Method
+TIL,TI Limited U.K.
+TILACS,TI Library Acquisition And Control System
+TILADS,TI Logic Array Design System
+TILES,TI Layout and Edit System
+TILS,TI Last Schedule,TI Ledger System
+TILT,TI Language Translator
+TIM,TI Malaysia,TI Marketing Europe Division,TI Meta-Assembler,Traffic Interface Manager
+TIMBR,TI Modular-Based ROM
+TIMECKS,TI Month-End Closing and Keypunching Schedule
+TIMS,Turnkey Information Management System,Tool Interdiction and Monitoring System
+TINCP,TI Network Control Program
+TINDX,TI Keyed-Index Access Method
+TINET,TI Numerical Entry Terminal
+TINQ,TI Inquiry
+TIOLR,TI On-Line Reporting System
+TIOS,TI Orientation Seminars,TI Original Schedule
+TIOT,Task Input Output Table
+TIP,Team Involvement Programs,TI Pascal,TI Power
+TIPAC,TI Planning And Control
+TIPI,TI Philippines Incorporated
+TIPSS,TI Profit Sharing System
+TIRIS,TI Radio Frequency Identification System,TI Registration and Identification System,TI Reticle Inspection System
+TIS,Technical Information Solutions,TI Singapore Limited
+TISAM,TI Sequential Access Method
+TISCO,TI Supply Company
+TISOS,TI Standard Of Safety
+TISP,TI Surge Protector
+TITAN,TI Telecommunications Advanced Network,TI Technical Advantage Network,TI Task Attached Network
+TITC,TI Technical Council
+TITJ,TI Technical Journal
+TITL,TI Taiwan Limited
+TITV,TI Television
+TIU,Tape Interface Unit
+TJC,Tandem-Junction Cell
+TKDP,Technical Knowledge Development Program
+TL,Transaction Language
+TL1,Tester Linear Version 1
+TLA,Three Letter Acronyms
+TLB,Transaction Lookaside Buffer
+TLC,Telephone Line Card,Transmission Line Calculator,Trace Lot Control
+TLF,Taguchi Loss Function
+TLMS,Time Loss Management Services
+TLX,Teleprinter Exchange Service
+TM,Task Management,Thermostat Metal,Trademark,Transverse Magnetic,Travel Mate
+TM1,Tester Micro Computer Version 1
+TM2,Tester Micro Computer Devices Version 2
+TMA,Technical Marketing Associate
+TMG,Technology and Manufacturing Group
+TMI,Texas Manufacturing Institute
+TMOA,Technical Memorandum Of Agreement
+TMR,Timer Function of PM550
+TMS,Transport Management System
+TMT,Transmit
+TMTS,TMG Member of the Technical Staff
+TMX,TI Mexico
+TNC,Teams Network Council,Threaded Neill Concelman
+TNI,Trouble Not Identified
+TNRCC,Texas Natural Resource Conservation Commission
+TNRCCTX,Texas Natural Resource Conservation Commission
+TO,Transport Order,Transistor Outline
+TOA,Time Of Arrival
+TOD,Time Of Day
+TOE,Telephone Order Entry
+TOL,Time-Ordered List
+TOS,Tape Operating System,Terminal Operating System,Transaction-Oriented System
+TOT,Time Of Tape
+TOTS,TSO On-line Training System
+TP,Teleprocessing,Test Procedure,Thermal Printer,Third Party,Transaction Processor
+TPBI,TILINE Peripheral Bus Interface
+TPCS,TILINE Peripheral Control Space
+TPD,Tape PDT extension
+TPH,Thermal Print Head
+TPI,Tracks Per Inch
+TPL,Terminal Programming Language,Transaction Programming Language
+TPM,Total Productive Maintenance Training Planning Model
+TPS,Terminal Polling System,Throttle Position Sensor,Transaction Processing System
+TQ,Transport Queue
+TQADW,Transport Queue Active Data Warehouse
+TQC,Total Quality Culture,Total Quality Control
+TQFP,Thin Quad Flat Pack
+TQM,Torque Meter,Total Quality Management
+TQW,Total Quality Workshop
+TR,Traveler
+TR0,Track Zero
+TR00,Track Zero
+TRAC,Technical Resource Advantage Certification
+TRANSCOM,Transportation Command
+TRAWL,Tape Read And Write Library
+TRB,Technical Review Board
+TRDC,Tsukuba Research and Development Center
+TRICS,Terminal for Remote Interface and Control System
+TRIX,Texas Regional Information Exchange
+TRL,Transistor-Resistor Logic
+TRP,Transaction Processor
+TRS,Transmission Range Sensors
+TRSB,Time-Reference Scanning Beam
+TRT,Terec Remote Terminal
+TS,Test Set
+TSA,Production JCL Librarian,Technical Sales Associate
+TSB,Task Status Block
+TSBH,Tech Smart Big Heart
+TSCPA,Texas Society Of Certified Public Accountants
+TSE,Terminal Source Editor
+TSF,Ten-Statement Fortran
+TSO,Time-Sharing Option
+TSP,Technology Service Professionals
+TSR,Technical Sales Representative
+TSS,Time-Sharing System
+TSSOP,Thin Shrink Small Outline Package
+TT,Terminal Timing,Top Ten
+TT-PEG,Test Technology and Product Engineering Group
+TTBT,Top 10 Bottom 10
+TTC,Test Technology Center
+TTDT,Transition Timeline Decision Team
+TTL,Transistor-Transistor Logic
+T2L,Transistor-Transistor Logic
+TTM,Time To Market
+TTP,Tape-To-Print
+TTR,Test Time Reduction
+TTT,Technology Transfer Team
+TTY,Teletypewriter
+TVA,Taxable Value Added
+TVSOP,Thin Very Small Outline Package
+TVT,Television Typewriter
+TW,TestWare
+TWAC,TestWare Active Control
+TWRTT,Those Who Report To Them
+TWT,Traveling Wave Transistor,Traveling Wave Tube
+TX,Transaction,Transmit
+TXID,Transaction Identifier
+TXN,NYSE Symbol of Texas Instruments Incorporated

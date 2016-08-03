@@ -1,0 +1,23 @@
+X,Mounting Base Input
+XA,user experience Architect
+XBGC,Expansion-bus global control register
+XBHC,Expansion-bus host-port interface control register
+XBUS,Expansion-bus
+XDCR,Transducer
+XDP,X-ray Density Probe
+XRD,Xray Diffraction
+XDS,Exchange Development System
+XFMR,Transformer
+XGEN,Execute System Generation Utility
+XMIT,Transmit
+XMT,Transmit
+XMTR,Transmitter
+XNS,Crosstalk Network Simulator
+XOR,Exclusive-Or Gate
+XR,External Reset
+XREF,Cross-Reference
+XRR,X-Ray Reflectance
+XST,Transistor
+XSTR,Transistor
+XTAL,Crystal
+XTEN,Xerox Telecommunications Network

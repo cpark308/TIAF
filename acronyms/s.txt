@@ -1,0 +1,314 @@
+S,Sample,Standard Deviation,Select
+S&C,Sensors and Controls
+SD,Signal-To-Distortion Ratio
+SH,Sample and Hold
+SN,Signal-To-Noise Ratio
+SNR,Signal-To-Noise Ratio
+SR,Subroutine
+SW,Software
+SA,Schedule Agreement
+SACMOS,Self-Aligned Metal Gate CMOS
+SAA,Systems Application Architecture Australian National Standards Body
+SAAR,Seasonally Adjusted Annual Rate
+SABL,Sequence and Batch Language
+SADAII,Standard Advanced Devar Assembly
+SADT,Structured Analysis and Design Technique
+SAE,Society of Automotive Engineers
+SAFE,South America and Far East
+SAFES,Supplemental Agreement For Equipment Services
+SAG,Silicon Aligned Gate
+SAG CMOS,Silicon Aligned Gate CMOS
+SAH,Sales Activity History
+SAL,Symbolic Assembly Language
+SAM,Sequential Access Memory,Served Available Market,Speech Aware Multimedia
+SAN,Storage attached networks
+SAP,Systems Applications and Processing
+SAQ,Self Assessment Questionnaire
+SAR,Segmentation and Reassembly,Successive Approximation Register
+SAS,Statistical Analysis System
+SAT,Secondary Allocation Table,Supervisory Audio Tone
+SATF,Seeker Acceptance Test Facility
+SAW,Surface Acoustic Wave
+SB,South Building
+SBB,Sales, Billings, Backlog
+SBD,Schottky Barrier Diode,Switch Filter Beamformer and Detector Log Video Amplifier
+SBE,Strategic Business Entity
+SBH,Sales and Billing History
+SBI,Synchronous Backplane Interconnect
+SBO,Supported Business Opportunities
+SBS,Silicon Bilateral Switch,Strategic Business Systems
+SBU,Strategic Business Unit
+SC,Semiconductor,Semiconductor Building
+SC0,Track 0 Sector 0 Format
+SCA,Sub-Channel Adapter
+SCADA,Supervisory Control And Data Acquisition
+SCAS,Semiconductor Auto-scheduling System
+SCAT,Strip-Chip Architectural Topology Super Cat Machine
+SCAV,Single Cavity
+SCC,Canadian National Standards Body,Security Control Center
+SCCM,System that pushes windows updates
+SCD,Source Control Drawing
+SCDB,Supply Chain Database
+SCEM,Supply Chain Event Manager
+SCF,Strategic Customer Focus,System Control File,Super Critical Fluids,Supply Chain Foundation
+SCG,Semiconductor Group
+SCI,System Command Interpreter
+SCL,Systems Components Laboratory
+SCM,Software Configuration Management,Specification Compliance Matrix
+SCMS,Software Control Management Systems
+SCN,Solid Circuit Network,Spec Change Notice
+SCOB,Standard Cost Of Billings
+SCOPE,System Controllability and Observability Partitioning Environment
+SCP,Service Control Point,System Command Processor,System Control Package,Supply Chain Planner,Short Circuit Protection
+SCPC,Single Channel Per Carrier
+SCPPC,Semiconductor Product Customer Center
+SCR,Silicon Control Rectifier,Standard Cost Report,System Change Request
+SCRB,Supply Chain Review Board
+SCS,Supply Chain Systems,Silicon Controlled Switch
+SCSI,Small Computer Standard Interface
+SD,Source Drain
+SDA,Software Design Automation,Source Data Automation,Source Detector Assembly
+SDB,Software Development Board,Stage Descriptor Block,Standard Data Base
+SDBA,Strategic Data Base Administration
+SDC,Synopsis design constraint
+SDCR,Speaker-Dependent Continuous Recognition
+SDD,Silicon Discrete Devices,Software Design Document
+SDF,Software Development Facility,Standard Delay Format
+SDH,Synchronous Digital Hierarchy
+SDI,Statistically Driven Inventory
+SDL,System Design Language
+SDLC,Synchronous Data Link Control,System Development Life Cycle
+SDM,Segment Descriptor Module,Server Data Manager,Supply Demand Match,Systems Development and Maintenance,Systems Development Methodology
+SDMI,Secure Digital Music Initiative
+SDMS,Software Development Management System
+SDMV,Supply Demand Match Visibility
+SDP,Software Development Plan,Summer Development Program
+SDQR,Special Device Quotation Request
+SDRAM,Synchronous Dynamic Random Access Memory
+SDS,Software Development Systems,Space Division Switching,Space Documentation Source,Speech-Development System,Signal Data Path Solutions
+SDW,Short Distance Wireless
+SDWT,Self Directed Work Team
+SEAMS,Software Engineering Activities Management Systems
+SEH,Systems Engineering Handbook
+SEI,Software Engineering Institute
+SEM,Scanning Electron Microscope,Serial Emulation Module,Standard Electron Module
+SEME,Standard Electronic Module E,Standard Electronic Module Format E
+SEMATECH,Semiconductor Manufacturing Technology
+SEMI,Special Electromagnetic Interference
+SEP,Sensor-Emitter Products,Separable Programming,Software Exchange Program,Solar Energy Program
+SES,Systems and Equipment Sector
+SEST,Support Engineering Strategy Tools
+SF,Sampled Filter,Signal Framing,Single Frequency,Special Function,Switchable Filter
+SFAB,Sherman Wafer Fab
+SFC,Statistical Factory Control
+SFDR,Spurious Free Dynamic Range
+SFM,Statistical Factory Management
+SFS,Semiconductor Financial System
+SFSD,Ship from Stock and Debit
+SG&A,Sales General and Administration
+SGB,Segment Group Block
+SGP,TI Singapore
+SGRAM,Synchronous Graphics Random Access Memory
+SGT,Segment Table
+SH,Sample and Hold
+SHP,Shipping
+SHPE,Society of Hispanic Engineers
+SI,Serial Input,Systeme International D'unites Metric Authority
+SIA,Semiconductor Industry Association,Serial Interface Adapter
+SIC,Standard Industrial Classification,Systems Integration Center
+SICR,Speaker-Independent Continuous Recognition
+SID,Silicon Image Device
+SIE,Stamped in error
+SIEP,Selective Inventory Exchange Procedure
+SIG,Special Interest Group
+SIGDOC,Special Interest Group on Documentation
+SIMA,Systems Integration and Management Activity
+SIMCL,Simulation Control Language
+SIMD,Single-Instruction, Multiple-Data
+SIMM,Single Inline Memory Module
+SIMOX,Separation by Implantation of Oxygen
+SIMS,Secondary Ion Mass Spectroscopy,Stockroom Inventory Management System
+SIO,Solicit Input Output
+SIOP,Single Integrated Operational Plan
+SIP,Single In-line Package,Session Initiation Protocol
+SIQ,Standard Issue Quantity
+SIR,System Improvement Request
+SIREN,System Impact Responsibility Escalation Notification
+SIS,Supervisory Interface Station Swedish National Standards Body
+SISL,Systems and Information Sciences Lab
+SIT,Software Improvement Team,System Integration Test
+SKIF,Show Key-Indexed File
+SKR,Seeker
+SKU,Stock Keeping Unit
+SLA,Service Level Agreement
+SLAB,Set-aside Look Ahead Buffer
+SLAT,Singapore Low-cost Assembly Test
+SLATE,System-Level Automation Tool for Engineers
+SLB,System Log Block
+SLCC,Subscriber-Line Control Circuit
+SLF,Super Low Frequency
+SLI,System Level Integration
+SLIC,Subscriber Line Interface Circuit
+SLIDE,Symbolic Layout Input Display and Edit
+SLIP,Single Line Interface Protocol
+SLL,Standard Linear and Logic
+SLM,Spacial Light Modulator
+SLP,Serial Link Products
+SLT,Strategy Leadership Team
+SLU,Secondary Logical Unit
+SM,Surface Mount System Methodology
+SMA,Strategic Marketing Associate
+SMB,Scheduler Message Block
+SMC,Site Management Committee
+SMD,Storage Module Drive,Surface Mount Device
+SME,Subject Matter Expert
+SMF,System Measurement Facility
+SMIF,Standard Mechanical Interface
+SMI,Sales and Marketing IT
+SML,Spice Modeling Lab
+SMOS,Scaled MOS
+SMP,Symmetric Multi-processing,System Maintenance Program
+SMPS,Switched Mode Power Supply
+SMPTE,Society of Motion Picture and Television Engineers
+SMR,System Maintenance Request
+SMS,Semiconductor Manufacturing System,Source Management Systems,Systems Management Storage
+SMSA,Standard Metropolitan Statistical Area
+SMTP,Simple Mail Transfer Protocol
+SMTS,Senior Member Technical Staff
+SMU,Southern Methodist University in Dallas Texas
+SNA,Systems Network Architecture
+SNMP,Simple Network Management Protocol
+SO,Sales Order Serial Output
+SOA,Safe Operating Area
+SOB,Start Of Block
+SOE,Society of Excellence
+SOF,State Of Finish
+SOH,Sales Order Header,Start Of Header
+SOHO,Small Office, Home Office
+SOI,Silicon On Insulator,Standard Operating Instruction
+SOIC,Small Outline Integrated Circuit
+SOJ,Small Outline J lead
+SOL,Solenoid
+SON,Statement of Operational Need,Small Outline No-lead
+SONET,Synchronous Optical Network
+SONIC,System-wide On-line Network for Information Control
+SOP,Standard Operating Procedure
+SOQ,Security Office Questionnaire,Suggested Order Quantity
+SOS,Silicon On Sapphire,Streamer Offset System
+SOW,Statement Of Work
+SP&P,Standard Policies and Procedures
+SPA,Scratch Pad Area,Start Plan Attainment
+SPARC,Scalable Processor Architecture
+SPB,Silicon Process Bias
+SPC,Signal Processing Computer,Spare Parts Catalog,Standard Process Control,Statistical Process Control,Stored Program Control,Strategic Planning Conference,Switching and Processing Center
+SPCAS,Software Product Control and Archiving System
+SPD,Structured Programming Design,Supply Process Division
+SPDB,Software Process Database
+SPDC,Semiconductor Process and Design Center
+SPDT,Single-Pole Double-Throw
+SPEC,Specification
+SPEF,Standard Parasitic Exchange Format
+SPESS,Stored Program Electronic Switching System
+SPF,Structured Programming Facility
+SPG,Storage Products Group
+SPI,Serial Peripheral Interface,Software Process Improvement
+SPICE,Simulation Program with Integrated Circuit Emphasis
+SPIN,Strategies and Policies in Information
+SPK,Software Porting Kit
+SPLIT,Selectable Physical Layer Interface Transceiver
+SPLS,Spare Parts Logistics System
+SPM,Start Plan Manager
+SPO,Systems Project Office
+SPPD,Signal Processing Packaging Design
+SPQ,Standard Pack Quantity
+SPS,Semiconductor Planning System
+SPST,Single Pole Single Throw
+SPT,System Page Table
+SPV,Surface Photo Voltage
+SQA,Supplier Quality Assurance,Software Quality Assurance
+SQBR,Supplier Quarterly Business Review
+SQC,Statistical Quality Control
+SQL,Structured Query Language
+SQP,Supplier Quality Program
+SQUID,Superconducting Quantum Interference Device
+SR,Slew Rate
+SRC,Semiconductor Research Corporation,Standard Requirement Codes
+SRDL,Semiconductor R and D Laboratories
+SREL,Semiconductor Research and Engineering Laboratory
+SRI,Stanford Research Institute
+SRP,Standard Repair Procedures,Suggested Retail Price
+SRS,Software Requirements Specification,Standard Report System
+SRU,Shop Replaceable Unit
+SS,Site Support,Solid State
+SSAL,Stainless Clad Aluminum
+SSA,Segment Search Argument
+SSB,Segment Status Block,Single Side Band
+SSCP,System Service Control Point
+SSDA,Synchronous Serial Data
+SSDB,Strategic Systems Data Base
+SSET,Standalone Speech Edit Terminal
+SSH,Secure Shell
+SSI,Small Scale Integration,Server-side include
+SSLD,Single-Seat Laser Designated
+SSLT,Steady State Life Test
+SSM,Small Site Manufacturing
+SSMM,Solid-State Mass Memory
+SSOP,Shrink Small-Outline Package,Small Scale Outline Package
+SSP,Software Sustaining Plan,Solid State Protocol
+SSPM,Strategic Sourcing and Partner Management
+SSR,Solid State Relay
+SSS,Silicon Small Signal,Site Support Services,Solid State Software
+SSSD,Silicon Small Signal Department
+SSTA,Statistical static timing analysis
+SSUP,Strategic Supplier
+ST,Status Register
+STA,Serial Technology Advancement,Strategic Technical Area,System Table Area,Static Timing Analysis,Strategic Trade Act
+STAIRS,Storage And Information Retrieval System
+STARS,Service Tracking and Resolution System,Software Technology for Adaptive Reliable,Systems Status And Revision Subsystem
+STC,Sinusoidal Transform Coder,Society of Technical Communicators,Storage Technology Corporation
+STCI,Serial Test and Configuration Interface
+STD,Short-Term Disability
+Standard,Standard Pricing Variance
+STDF,Teradyne test systems
+STE,Segment Table Entry,Special Test Equipment,Swap Table Entry
+STEM,Scanning Transmission Electron Microscope
+STEP,Software Engineering Process
+STI,Shallow Trench Isolation
+STL,Schottky Transistor Logic,Simulation Technology Laboratories,Systems Technology Laboratory
+STM,System Tape Master
+STO,Stock Transport Order
+STP,Shielded Twisted Pair,Set Top Boxes
+STR,Software Trouble Report,System Trouble Report
+STS,Strategic Trade Secretarial
+STTL,Standard Transistor-Transistor Logic
+STU,System Test Unit
+STX,Start of Text,Start of Transmission Character
+SUA,Scrap Unit Accountability
+SUB,Supplemental Unemployment Benefit
+SUPP,Supplier
+SUS,Silicon Unilateral Switch
+SVA,Silicon Valley Analog
+SVC,Service Call,Supervisor Call
+SVF,Serial Vector Format
+SVP,Scanline Video Processor,Schematic Verification Program,Serial Video Processor
+SVQ,Service Queue
+SVR,Supply Voltage Rejection
+SVS,Single Virtual System
+SW,Shortwave
+Software,Status Word
+SWA,Special Wafer Area
+SWD,Surface Wave Device
+SWDS,Software Development System,Software Distribution System
+SWR,Special Work Request,Standing Wave Ratio
+SYSGEN,System Generation
+SYSID,System Identification
+SYSIN,System Input
+SYSLMOD,System Load Module
+SYSLOG,System Log
+SYSOUT,System Output
+SYSRST,System Restart Task
+SERDES,Serializer Deserializer
+SIGE,Silicon Germanium
+SITD,Silicon Technology Development
+SOC,System on Chip
+SOCS,Service-oriented Communications

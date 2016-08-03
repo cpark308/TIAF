@@ -1,0 +1,124 @@
+L&I,Lighting and Industrial
+LA,Latin America Learning Aid
+LAB,Labor
+LAD,Log Anchor Desk
+LAFF,Lisp Archival File Format
+LAM,Loop Access Module
+LAN,Local Area Network
+LAP,Linked Access Protocol
+LAPUT,Light-Activated Programmable Uni-junction Transistor
+LAR,Last Address Register
+LASCR,Light-Activated Silicon Controlled Rectifier
+LASER,Light Amplification by Stimulated Emission of Radiation
+LAT,Latin American Trade,Lot Acceptance Test
+LAVF,Low acid via form
+LBB,Low Band Basic
+LBC,Linear Bi-CMOS Process
+LBD,Low Band Difference
+LBE,Local Business Entities,Local Business Entity
+LBP,Low Band Processor
+LBS,Low Band Sum
+LC,Linear Circuits Department
+LCA,Logic Cell Array
+LCB,Language Control Board,Luno Control Block
+LCC,Leadless Ceramic Carrier,Life Cycle Cost
+LCCC,Low-Cost Chip Carrier
+LCD,Liquid Crystal Display
+LCM,Lower Control Limit
+LCS,Labor Collection System,Large Capacity Storage
+LD,Long Distance Phone Call
+LDC,Less Developed Countries,Louisville Data Center
+LDD,Low Dose Drain
+LDM,Linear Delta Modulation,Logical Data Model
+LDO,Low Drop Out Voltage
+LDOV,Load Overlay
+LDS,Labor Distribution System
+LDT,Logical Device Table,Logical or Luno Device Table
+LE,Less Than or Equal to
+LEAP,Leveraging and Elevating Applications Professionals
+LED,Light-Emitting Diode,Load Execute Dump
+LEMP,Lighting Electromagnetic Pulse
+LENCS,Laboratory and Engineering Notebook Control System
+LF,Line Feed Line Frequency Low Frequency
+LFBGA,Low-profile fine-pitch ball grid array
+LFD,Log File Definition
+LFE,Low-Frequency Effects
+LFSR,Linear Feedback Shift Register
+LFT,Low Frequency Transduction which is used for analog telephone signal
+LFU,Least Frequently Used
+LGR,Ledger
+LI,Left In
+LIACS,Library Information Access and Control System
+LIC,Linear Integrated Circuit
+LIFO,Last-In-First-Out
+LIM,Logic Interface Module
+LINBICMOS,Linear Bipolar CMOS
+LIS,Local Interface Station,Lead Inspection System
+LISP,List Processing
+LIST,List-Oriented Interactive Language
+LIU,Line Interface Unit
+LJ,Left Justified
+LLC,Logic Link Control
+LLL,Low Light Level
+LLLTV,Low-Light-Level Television
+LLM,Local Line Module
+LLN,Line Link Network
+LM,List Of Materials
+LMDS,Local Multipoint Distribution Service
+LMOS,Low-Power MOS
+LMS,Library Management System
+LNA,Low Noise Amplifier
+LNR,Lifetime Net Revenue
+LO,Left Out,Local Oscillator,Loss
+LOA,Leave Of Absence
+LOB,Line Of Balance,Lines Of Billings
+LOC,Lines Of Code,Lead On Chip
+LOCCB,Lead On Chip with Center Bond
+LOE,Level Of Effort
+LOP,Line Of Position
+LP,Line Printer,Linear Programming,Log point,Linear Power
+LPA,Link Pack Area
+LPC,Linear Predictive Coding
+LPD,Line Printer PDT Extension
+LPE,Liquid Phase Epitaxy
+LPF,Low Priority Forecast
+LPM,Lines Per Minute
+LPS,Labor Performance System,Lines Per Second,Low Power Schottky
+LPTTL,Low-Power Transistor-Transistor Logic
+LQ,Letter Quality
+LRE,Latest Revised Estimate
+LRECL,Logical Record Length
+LRIP,Low Rate Initial Production
+LRP,Long-Range Plan
+LRR,Lot Rejection Rate
+LRSP,Long-Range Systems Plan
+LRU,Least Recently Used,Line Replaceable Unit
+LRV,Labor Rate Variance
+LS,Limit Switch
+LSA,Low-Cost Solar Array
+LSB,Least Significant Bit
+LSE,Lease Load Segment Entry
+LSF,Load Sharing Facility
+LSI,Large-Scale Integration,Line Status Indicator
+LSL,Local Subscriber Loop
+LSP,Lower Spec Limit
+LT,Lead Time,Less Than,Life Test
+LTA,Lost Time Accident
+LTB,Life Time Buy
+LTC,Lot Trace Code,Linear Tech Corporation
+LTD,Long-Term Disability
+LTERM,Logical Terminal
+LTP,Laser Thermal Processing
+LTPD,Lot Tolerance Percent Defective
+LTS,Log Tape System
+LTT,Logic Technology Transfer
+LU,Logical Unit
+LUT2,Type 2 Logical Unit
+LUNO,Logical Unit Number
+LV,Low Voltage
+LVDS,Low-Voltage Differential Signaling
+LVDT,Linear Variable Differential Transformer
+LVP,Low-Volume Production
+LVPECL,Low-voltage positive emitter-coupled logic
+LVT,Low-Voltage Technology
+LWD,Last Work Day

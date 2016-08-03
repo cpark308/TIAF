@@ -1,0 +1,65 @@
+U,Undefined
+UA,Unified Architecture
+UADS,User Attributes Data Set
+UART,Universal Asynchronous Receiver Transmitter
+UBA,Unibus Adaptor
+UBM,Under Bump Metallization
+UBUC,Unbiased unclamped
+UCB,Unit Control Block
+UCF,Utility Control Facility
+UCIC,User-Configurable Integrated Circuit
+UCL,Upper Control Limit
+UCR,Unit Cost Reporting
+UCS,Universal Character Set
+UDP,User Datagram Protocol,United Data Processing
+UDR,User Descriptor Record
+UDSM,Ultra Deep Sub-Micron
+UH,Unit Heater
+UHAC,Universal Home Appliance Controller
+UHEC,Universal Home Entertainment Controller
+UHF,Ultrahigh Frequency
+UIC,User Identification Code
+UIM,User Interface Module
+UL,Underwriters´ Laboratories
+ULE,Ultra Low Energy
+ULP,Ultra Low Power
+UM,Universal Manufacturing
+UMA,Unlicensed Mobile Access
+UMTS,Universal Mobile Telecommunications System
+UNEP,United Nations Environmental Program
+UNIVAC,Universal Automatic Computer
+UPA,Universal Polling Adapter
+UPC,Universal Product Code
+UPI,Universal Peripheral Interface
+UPP4,Universal Phone Platform 4 meg
+UPP8,Universal Phone Platform 8 meg
+UPS,Uninterruptable Power System
+URCLK,Universal Receiver Clock
+URDA,Ultra-Reliable Digital Avionics
+URG,User Reference Guide
+URL,Uniform Resource Locator
+USA,User Specific Array
+USAM,User Spooled Access Method
+USART,Universal Synchronous Asynchronous Receiver Transmitter
+USB,Universal Serial Bus
+USE,User Systems Engineering
+USERDOC,User Documentation
+USERID,User Identification
+USG,Undoped silicate glass
+USL,Upper Spec Limit
+USRREF,User Reference
+USRT,Universal Synchronous Receiver Transmitter
+USRTRAIN,User Training Material
+USSE,Unified Shader Architecture
+UT,Unit Test
+UTC,Universal Transmitter Clock
+UTEP,User Environment Test Package
+UTP,Unshielded Twisted Pair
+UTPM,Universal Test Program Matrix
+UTS,Units To Stock
+UTT,Units To Test
+UUT,Unijunction Transistor,Unit Under Test
+UV,Ultraviolet
+UVLO,Undervoltage lockout
+UW,United Way
+UWB,Ultra-Wideband

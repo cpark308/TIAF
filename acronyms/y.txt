@@ -1,0 +1,7 @@
+Y,Mounting Base Output
+YAG,Yttrium Aluminum Garnet
+YE,Year End
+YIG,Yttrium Iron Garnet
+YIL,Yellow Indicating Light
+YTD,Year To Date
+YY,Year

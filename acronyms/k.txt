@@ -1,0 +1,32 @@
+K,Kilo,Thousand
+KAM,Keyboard Attach Machine
+KAP,Keyboard Automation Program
+KB,Keyboard
+Kilobits,Kilobytes
+KBS,Kilobytes Per Second
+KC,Proportional Gain Term In PID Equation
+KCB,KIF Currency Block
+KDB,KIF Descriptor Block
+KDR,Key Descriptor Record
+KFA,Key Focus Area
+KFAB,Kilby Fab
+KGD,Known Good Die
+KIB,KIF Information Block
+KIF,Key Index File
+KIPS,Kilo Instructions Per Second
+KIT,KIF Task Area
+KK,Kobetsu Kaizen
+KLOC,One Thousand Lines of Code
+KM,Knowledge Management
+KMER,Kodak Metal Etch Resist
+KPA,Key Personnel Analysis
+KPR,Kodak Photo-Resist
+KRA,Key result area
+KSB,Keyboard Status Block
+KSPS,Kilo Samples Per Second
+KSR,Keyboard Send and Receive
+KTFR,Kodak Thin Film Resist
+KW,Kiloword which is twice a kilobyte
+KWIC,Key Word In Context
+KWOC,Key Word Out Of Context
+KVA,Kilovolt Ampere

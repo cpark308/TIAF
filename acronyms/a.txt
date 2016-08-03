@@ -1,0 +1,243 @@
+AD,Analog to Digital Converter
+AT,Acceptance Test
+AV,Audio Visual
+AA,Alternatives Analysis,Amp Attenuator,Application Architecture,Atomic Absorption
+AAA,Advance Audience Analysis
+AAAS,American Association for Advancement of Science
+AAC,Advanced Audio Coding,Automatic Answer Card
+AAP,Affirmative Action Program,Advanced Analog Products
+AAS,Assembled Applications Solutions
+AAT,Applications Architecture Team
+ABACUS,Alloy Bond Assembly Concepts Universal Systems
+ABEND,Abnormal End of Task
+ABI,Advanced Bus Interface,Application Binary Interface
+ABM,Answer Back Memory
+ABO,Advanced Byte Oriented
+ABPM,ASIC Business Process Management
+ABR,Available Bit Rate
+ABS,Anti lock Brake System
+ABT,Advanced BICMOS Technology
+AC,Alternating Current
+ACA,Automatic Circuit Assurance
+ACAPS,Automatic Cut And Preparation System
+ACB,Access Method Control Block,Application Control Block
+ACC,Accounting Record Contents
+ACD,Advanced Circuits Department,Automatic Call Distributor
+ACE,Automatic Calling Equipment
+ACES,Asynchronous Communication Elements,Automatic Calling Equipment
+ACF,Advanced Communications Function
+ACI,Asynchronous Communications Interface
+ACK,Acknowledge
+ACL,Advanced Components Lab,Advanced Concepts Laboratory,Advanced CMOS Logic
+ACLR,Adjacent Channel Leakage Ratio
+ACM,Association for Computing Machinery
+ACP,Ancillary Control Process
+ACPI,Advanced Configuration and Power Interface
+ACR,Allowable Cell Rate
+ACRC,Application Configuration and Release Control
+ACROSS,Automated Conference Room Online Scheduling System
+ACRS,Accelerated Cost Recovery System
+ACS,Analog Central Services
+ACSL,Advanced Computer Systems Laboratory
+ACT,Application Collateral Team,Allocated Cost Transactions
+ACTD,Advanced Concept Technology Demonstration
+ACTV,Advanced Circuit Tester 5th Generation
+ACU,Automatic Calling Unit
+ACWP,Actual Cost of Work Performed
+AD,Assembly Delta
+ADM,Application Development and Maintenance
+ADA,Advanced Distributed Architecture
+ADC,Analog to Digital Converter
+ADD,Advanced Digital Discriminator
+ADE,Application Development Environment
+ADEA,Age Discrimination in Employment Act
+ADF,Application Deployment Facility,Application Development Facility,Application Deployment Framework
+ADG,Americas Distribution Group,Application Data Group
+ADI,Analog Devices Incorporated
+ADL,Arthur D. Little Incorporated,Automatic Data Logging
+ADLS,Automated Digital Layout System
+ADM,Adaptive Delta Modulation
+ADMS,Assembly Documentation Management System
+ADP,Automatic Data Processing
+ADPCM,Adaptive Differential Pulse Code Modulation
+ADR,Alias Descriptor Record,Applied Data Research
+ADS,Address Data Strobe,Advanced Development System,AION Development System,Application Development Services,Application Development Standard
+ADSL,Asymmetric Digital Subscriber Line
+ADSTAR,Automated Document Storage And Retrieval System
+ADU,Allocatable Disc Unit
+ADW,Active Data Warehouse
+AE,Applications Engineer
+AEA,American Electronics Association
+AEC,Advanced Embedded Control
+AED,Applications Engineering Distributor,Account Engineering Dealer
+AEG,Active Element Group
+AEO,Analog Engineering Operations
+AES,Advanced Encryption Standard
+AES,Audio Engineering Society,Advanced Enterprise System,Advanced Encryption Standard
+AESA,Active Element Scanned Array
+AF,Audio Frequency
+AFAC,Automated Flexible Cell
+AFC,Automatic Frequency Control
+AFCS,Assembly Floor Control System
+AFE,Analog Front End
+AFEP,Advanced Front End Program
+AFIPS,American Federation of Information Processing Societies Incorporated
+AFNOR,French National Standards Body
+AFPC,Advanced Front End Prototyping Center
+AFS,Advanced Field System
+AFTS,Automated Funds Transfer System
+AGC,Automatic Gain Control
+AGP,Advanced Graphics Port
+AGV,Automated Guided Vehicle
+AHE,Association For Higher Education
+AI,Artificial Intelligence,Assembly Instruction
+AI2L,Advanced Integrated Injection Logic
+AIC,Analog Interface Chip,Analog Interface Circuit
+AIDES,Automated Interactive Design And Evaluation System
+AIDS,Advanced Integrated Display System
+AIE,ADA Integrated Environment
+AIEE,American Institute of Electrical Engineers which is now IEEE
+AIIE,American Institute of Industrial Engineers
+AIM,Advanced Information Management,Automatic Identification Manufacturers,Auxiliary Input Module,Avalanche Induced Migration
+AIMS,Advanced Inertial Measurement System
+AIN,Advanced Intelligent Network
+AIP,Average Invoice Price,Audio and Imaging Products
+AIR,Air Injection Reactor
+AIRS,Advanced IR Sensor
+AJACS,Automated JCL Alignment and Centralization System
+AJC,Attendance Job Card
+AJP,Advanced Joint Planning
+AJPO,Ada Joint Program Office
+ALC,Assembly Language Coding
+ALD,Atomic Layer Deposition
+ALE,Adaptive Line Enhancement
+ALERT,Archived Listings and Execution Retrieval Techniques
+ALEX,Algorithm Exerciser
+ALGOL,Algorithmic Language,Algorithmic Oriented Language
+ALICAT,Advanced Long Wavelength Infrared and Circuit Array Technology
+ALP,Analog and Logic Products,Advanced Logistics Program
+ALPINE,Advanced Logistics Program Integration and Engineering,ALPS Advanced Low Power Solutions
+ALR,All Layers Revision
+ALS,Advanced Low Power Schottky,Automated Layout System
+ALT,Administrative Leadership Team
+ALU,Arithmetic and Logic Unit
+ALVC,Advanced Low-Voltage CMOS Technology
+ALVT,Advanced Low Voltage Technology
+AM,Amplitude Modulation,Area Manager
+AMA,American Management Association,American Marketing Association
+AME,Application Management Environment
+AMF,Application Management Facility
+AMIS,Advanced Management Information System,Automatic Maintenance Information System,Automatic Management Information System
+AMOS,A Maintenance Operating System
+AMP,Application Management Package
+AMPL,A Macro Programming Language,Advanced Microprocessor Prototyping Lab
+AMPS,Application Management Package
+AMR,Adaptive Multi Rate
+AMRA,Automatic Meter Reading Association
+AMS,Asset Management System
+ANC,Active Noise Cancellation
+ANDIPS,American National Dictionary for Information Processing Systems
+ANDVT,Analog Narrow band Digital Voice Terminal
+ANS,American National Standard which is a common prefix for ANSI documents or standards
+ANSI,American National Standards Institute
+AODS,Automatic Operations Data System
+AOI,And Or Invert
+AOP,Address Out Port
+AOQ,Average Outgoing Quality
+AOS,Algebraic Operating System
+AP,Accounts Payable,Annual Plan Attached,Processor Automated Payables
+APA,Antenna Processor Assembly,ASIC Production Agreement
+APACHE,Automatic Production ASP Console Hardware Entry System
+APC,Adaptive Predictive Coding,Advanced Process Control,Assembly Process Characterization
+APD,Automatic Power Down,Avalanche Photo diode
+API,American Petroleum Institute,Application Program Interface,Application Programming Interfaces
+APIC,American Production and Inventory Control Society
+APICS,American Production and Inventory Control Society
+APIS,Automatic Position Indication System
+APN,Alternate Part Number
+APO,Adaptive Performance Optimization
+APOLLO,Automatic Production On-Line JCL Option System
+APPC,Advanced Planning Production Control
+APQC,American Productivity and Quality Center
+APQP,Advanced Product Quality Planning and Control Plan
+APS,ADA Programming Support Environments,Auto Pricing System
+APT,Automatic Picture Transmission,Automatic Programming Tools,Automotive Pressure Transducer
+APU,Arithmetic Processing Unit
+AQL,Acceptable Quality Limit,Analytical Quality Lab,Average Quality Level
+AR,Account Representative,Accounts Receivable
+ARAM,Audio Random Access Memory,Audio Response Access Method
+ARC,Anti Reflective Coating
+ARCTIC,Advanced RF Cellular Telephone Interface Circuits
+ARGIS,Artwork Generation and Inspection System
+ARIES,Artificial Intelligence Embedded System
+ARL,Acceptable Reliability Level
+ARM,Advanced RISC Machine
+ARO,After Receipt of Order Automatic and Rationalization Organization
+ARPANET,Advanced Research Projects Agency Network which is the precursor to the Internet
+ARRL,American Radio Relay League
+ARS,Automatic Routing System
+ARTIC,A Real-Time Interface Co processor
+ARU,Audio Response Unit
+AS,Administrative Support,Advanced Schottky
+ASA,American Standards Association which is now ANSI
+ASAP,As Soon As Possible
+ASAS,All Source Alarm System
+ASB,Activity Sales and Billings
+ASC,Accredited Standards Committee,Advanced Scientific Computer,Automatic Search Control
+ASCB,Address Space Control Block
+ASCII,American Standard Code for Information Interchange
+ASD,Advanced Systems Development,Advanced Systems Division,Automation Systems Division,Automation Systems Department,Automotive Systems Division
+ASERTY,Alternative Typewriter Keyboard Starting with these 6 Characters
+ASGS,Automatic Software Generation Systems
+ASI,Air Analog Display Service Interface
+ASIC,Application Specific Integrated Circuit
+ASIG,Analog Special Interest Group
+ASIS,American Society for Information Science
+ASIST,Automated Solderability Inspection Station
+ASK,Amplitude Shift Key
+ASL,Advanced Systems Logic,Applied Scientific Laboratories,Atmospheric Sciences Laboratory
+ASM,Application Security Manager,Application System Manager,Association for Systems Management,Application Specific Memory
+ASME,American Society of Mechanical Engineers
+ASO,Americas Sales Operations
+ASP,Application Specific Products
+ASPC,Applications Specific Packaging Center
+ASQC,American Society for Quality Control
+ASR,Automatic Send and Receive
+ASSET,Advanced Support System for Emulation and Test
+ASSP,Application Specific Standard Product
+ASTC,Application Specific Test Code
+ASTL,Advanced Schottky Transistor Logic
+ASTM,American Society for Testing and Materials
+AT&C,Advanced Technologies and Components
+AT,Assembly Test
+ATB,Automated Ticket and Boarding Pass
+ATCN,Acceptance Test Change Notice
+ATCS,Assembly Test Computer System
+ATD,Analog Technology Development
+ATDRS,Assembly Test Data Reporting System
+ATE,Advanced Technology Entity,Automatic Test Equipment
+ATEGG,Advanced Turbine Engine Gas Generator
+ATF,Application Test Facility
+ATI,Automatic Transfer Initiate,Automatic Transfer Instruction
+ATL,Advanced Technology Laboratory,Automated Tape Library
+ATM,Artwork Tracking System,Automatic Test System,Automatic Transfer Services
+ATP,Available to Promise
+ATPF,Automated Test Parameter Feed
+ATS,Associate Member of Technical Staff
+ATSC,Advanced TV Systems Committee
+ATSS,Assembly Test Specification System
+ATT,Advanced Technology Test,American Telephone and Telegraph,Application Transfer Team
+ATV,Advanced Television which includes all digital standard for HDTV broadcast
+ATW,Advanced Tactical Workstation
+ATY,Assembly Test Yield
+AU,Arithmetic Unit
+AUL,Authorized or Accepted User List
+AUP,Average Unit Price
+AUR,All Up Round
+AVC,Artwork Verification Control,Automatic Volume Control
+AVDP,Advanced Video Display Processor
+AVI,Automatic Vehicle Identification,Automated Visual Inspection
+AVL,Approved Vendor List
+AVM,Automatic Vehicle Monitoring
+AVORS,Automatic Voucher On Receipt
+AWG,American Wire Gauge,Arbitrary Waveform Generator

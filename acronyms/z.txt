@@ -1,0 +1,10 @@
+Z,Depth,Impedance,Zero
+ZBB,Zero-Base Budgeting
+ZCR,Zero Crossing Rate
+ZD,Zero Defect
+ZG,Zero Gravity
+ZIF,Zero Insertion Force
+ZQC,Zero Quality Control
+ZUM,Zero Unplanned Maintenance
+ZW,Water Depth
+ZYWE,Zero Yield Wafer Equivalent

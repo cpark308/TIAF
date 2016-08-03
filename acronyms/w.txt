@@ -1,0 +1,78 @@
+W,Write
+WCDMA,Wideband Code Division Multiple Access
+W3,World Wide Web,Who What When
+W3C,World Wide Web Consortium
+WAC,Warehouse Area Controller
+WADS,Wide Area Data Service
+WAF,Wiring Around Frame
+WAM,Web access manager
+WAN,Wide area network
+WAP,Work Assignment Procedure
+WARC,World Administrative Radio Conference
+WAT,Wafer Acceptance Test
+WATS,Wide Area Telephone Service
+WB,Weather Bureau
+WBD,Wire Bound
+WBENC,Women's Business Enterprise National Council
+WBS,Work Breakdown Structure
+WBU,Wireless Business Unit
+WC,Work Center
+WCMD,Wind Corrected Munitions Dispenser
+WCS,Writable Control Storage,Wireless Connectivity Solutions
+WCSP,Wafer Chip Scale Package
+WDA,Work Day
+WDCS,Writable Diagnostic Control Store
+WDF,Wave Digital Filter
+WDTF,Windows Developers Technical Forum
+WE,Write Enable
+WEMA,Western Equipment Manufacturers Association
+WES,Women's Engineering Society
+WESCON,Western Electronic Show and Convention
+WFSC,Wafer Fab Source Code
+WHS,Warehouse
+WHSE,Warehouse
+WIC,Warning Information Correlation
+WIE,Written in error
+WIP,Work In Process
+WKPAPER,Work Papers
+WLAN,Wireless Local Area Network
+WLR,Wafter level reliability
+WO,Work Order
+WOM,Waiting On Memory,Write Only Memory
+WOMO,Work Order Made On
+WOP,Weekly Operating Plan
+WORKS,Name for the next generation of SC manufacturing and planning systems
+WOT,Wide Open Throttle
+WP,Word Processing,Workspace Pointer
+WPAN,Wireless Personal Area Network
+WPDP,Word Processing and Data Processing
+WPL,Worldwide Procurement and Logistics
+WPM,Words Per Minute
+WPS,Words Per Second
+WR,Working Registor,Width Reduction
+WRC,Water Resources Committee
+WSPW,Wafer Starts Per Week
+WST,Windows server team
+WSTS,World Semiconductor Trade Statistics
+WTBU,Wireless Terminals Business Unit
+WTD,Week To Date
+WTIF,Women of TI Fund
+WTS,Workstation Technical Support
+WTSD,Wireless Terminal Software Development
+WU,Western Union
+WVM,Working Version Manager
+WVTR,WVTR
+WW,Wire Wound,Worldwide
+WWEC,Worldwide Employee Communications
+WWF,World Wide Facilities
+WWIC,World Wide Internal Communications
+WWID,Worldwide Identifier
+WWMC,Worldwide Manufacturing Communications
+WWPJO,Worldwide Project Orders
+WWPL,Worldwide Price List
+WWPT,Worldwide Prime Time
+WWS,World Wide Supply,World Wide Security
+WWW,World Wide Web
+WWWO,Worldwide Web Organization
+WYSIWYG,What You See Is What You Get
+WIFI,Wireless Fidelity

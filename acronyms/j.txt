@@ -1,0 +1,34 @@
+JA,Job Authorization,Junior Achievement
+JAD,Joint Application Design
+JAIMS,Jobber Automatic Inventory Management System
+JCA,Job Communication Area,Job Control Area
+JCL,Job Control Language
+JE,Journal Entry
+JECS,Job Entry Central Services
+JEDEC,Joint Electron Device Engineering Council
+JEPS,Job Entry Peripheral Services
+JES,Job Entry System
+JFCB,Job File Control Block
+JFET,Junction Field-Effect Transistor
+JHUAPL,Johns Hopkins University Applied Physics Laboratory
+JI,Junction Isolation
+JISC,Japanese National Standards Body
+JIT,Job Information Table,Just-In-Time Inventory or Production System
+JL,Joint Logistics
+JMAIEL,James Martin Associates- IT professionals
+JMR,Job Manager Request
+JO,Job Order
+JOB,Job Opportunity Bulletin
+JOCY,Johnson City Tennessee
+JOEI,Job Order Entry and Inquiry
+JOS,Job Opportunity System
+JOWOG,Joint Working Group
+JPA,Job Performance AID
+JPEG,Joint Photographic Experts Group
+JSB,Job Status Block
+JSS,Job Segment Schedule,Joint Service Seeker
+JTAG,Joint Test Action Group
+JTAV,Joint Total Asset Visibility
+JTC1,ISO or IEC Joint Technical Committee 1 for Information Technology
+JTDE,Joint Technology Demonstrator Engine
+JUPITER,Job Usage in Production Incorporating Time Estimation Reporting

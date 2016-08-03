@@ -1,0 +1,87 @@
+H&I,Heating and Industrial
+H323,An ITU standard for realtime, interactive voice and video conferencing over Lans and the Internet.
+HW,Hardware
+HAL,Hardware Abstraction Layer
+HAST,Highly Accelerated Stress Test
+HAVF,High acid via form
+HBP,High Band Processor
+HC,Head count,Heater Chip
+HCI,Hot Carrier Induce
+HCN,Hardware Change Notification
+HDAM,Hierarchic Direct-Access Method
+HDD,High Dose Drain
+HDI,High-Density Interconnect
+HDL,Hardware Description Language
+HDLC,High-level Data Link Control
+HDS,Hitachi data services
+HDSM,High-Density Surface Mount
+HDT,Host Digital Terminal
+HDTV,High-Definition Television
+HDUE,High Dynamic User Equipment
+HED,Horizon End Date
+HEL,High Energy Laser
+HEM,High Energy Microwave
+HF,High Frequency
+HFAB,Houston Wafer Fab
+HG,Mercury
+HISW,High Strength-To-Weight ratio
+HIB,Handler Interface Board
+HIC,High Information Content
+HIDAM,Hierarchic Indexed Direct Access Method
+HIL,Hardware-In-The-Loop
+HINIL,High-Noise-Immunity Logic
+HIPO,Hierarchy Plus Input Process Output
+HIS,Home Information Systems
+HISAM,Hierarchic Indexed Sequential Access Method
+HLF,Horizontal Laminar Flow
+HLL,High Level Language
+HM,Hard Mask
+HMIS,Health Monitoring Information System
+HMO,Health Maintenance Organization
+HMOS,High-Performance MOS
+HNAS,makes it possible to support both SAN and NAS with Hitachi
+HOL,High-Order Language
+HOQ,House of Quality from Quality Function Deployment
+HOS,High-Order Systems
+HP,Hewlett-Packard
+HPUX,Hewlett-Packard Unix System
+HPWGT,Horsepower-To-Weight ratio
+HPA,High Performance Analog
+HPC,Hours Per Calculator
+HPDT,High Performance Designer Terminal
+HPF,High Priority Forecast
+HPL,High-performance linear
+HPNA,Home Phone line Networking Alliance
+HPPA,Hewlett-Packard Precision Architecture
+HPU,Hours Per Unit
+HR,Human Resources
+HRD,Human Resource Development
+HRDB,Human Resources Data Base
+HRE,Human Resources Effectiveness
+HRIS,Human Resources Information System
+HRN,Human Resources Network
+HSA,Home Sales Administration
+HSAM,Hierarchic Sequential Access Method
+HSC,High Speed Communications
+HSCC,High-Speed Communications Controller
+HSDL,Hierarchical Scan Description Language
+HSDP,High-Speed Display Processor
+HSM,High Speed Machine
+HSP,High-Speed Products
+HSS,High Speed Transceiver Logic,High Speed Serial
+HSSR,High-Speed Sequential Retrieval
+HSTL,High Speed Transceiver Logic
+HTL,Hold Tag System
+HTML,Hypertext Mark-up Language
+HTOL,High Temperature Operating Life test
+HTRB,High Temperature Reverse Bias Test
+HTS,Hold Tag System,Harmonized Tariff Schedule Code
+HUD,Heads-Up Display
+HV,High Voltage
+HVAC,Heating Ventilating and Air Conditioning
+HVAL,High Volume Analog and Logic
+HVCMOS,High Voltage CMOS
+HVL,High Volume Linear
+HVP,High-Volume Production
+HWIL,Hardware-In-The-Loop
+HZ,Hertz
