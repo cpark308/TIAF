@@ -1,6 +1,8 @@
 # TIAF
 Texas Instruments Acronym Finder
 
+for instructions, refer to https://e2e.ti.com/group/launchyourdesign/m/intern2016/666636
+
 This is the code for TIAF. There are two parts to this file
 
 Alexa Voice Service
